@@ -1,2 +1,3 @@
 #About Me
-This is how to edit
+
+My name is Aiden Grake. I am a Mechanical and Motorsports Engineering student at the University of North Carolina at Charlotte. I chose Mechanical and Motorsports Engineering because of my passion for motorsports and the industry. I also enjoy learning how different components within the industry operate and how they can be improved. I also find satisfaction working in an environment where a small engineering decision can make a significant impact on performance. I am especially interested in the mechanical design, CAD, physics, manufacturing process, problem-solving and engineering analysis elements of motorsports.
