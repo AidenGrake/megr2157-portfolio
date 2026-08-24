@@ -32,7 +32,11 @@ i. Alternatives: Guillotine Paper Cutter or Utility Knife
 ii. The original inventor designed the handles to be long compared with the distance from the pivot to the cutting edge. This provides the mechanical advantage of the scissors allowing a smaller hand force to be applied to produce a larger cutting blade force.
 
 ## Decide
+**Homepage Identity** - The purpose of the homepage is designed to allow website visitors to understand of what this engineering portfolio contains and give an understanding of the contents and applications of the portfolio. The homepage is organized into the standards and expectations within the portfolio. This allows website visitors to find engineering projects, coursework, design work, problem-solving skills and design skills. Providing website visitors to quickly determine what the portfolio offers and navigates to the information most relevant to them.
 
+**Intentional Customization** - The one intentional change made to this website was the header color from green to blue to contrast with the rest of the website. This change was made to help make the site more innovative and professional as companies like Indeed, LinkedIn, Ford, GM, Samsung and NASA all include a similar blue into their companies. This portfolio is a product and the color reflects an identity that reflects the product.
+
+**Documentation Standard** - The quality that I will exhibit of my projects this semester will be professional, concise and in an efficient manner. All projects will be presented clearly and with a purposeful direction.
 
 ## Communicate
-
+See "About Me" tab.
