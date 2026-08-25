@@ -20,12 +20,13 @@ B. The product is governed by the torque (moment) equation about the pivot. τ =
 C.
 
 <img width="2000" height="2000" alt="IMG_9984" src= https://github.com/Agraha74/megr2157-portfolio/blob/main/IMG_8373.jpeg/>
-1. Left Blade/Handle  2. Right Blade/Handle
+Left Blade/Handle and Right Blade/Handle
 <img width="2000" height="2000" alt="IMG_9986" src=https://github.com/Agraha74/megr2157-portfolio/blob/main/IMG_8374.jpeg />
-3. Connecting Screw
+Connecting Screw
+
 
 D. 
-Patent ID: US6493947B2 Scissors | Inventor: Andrew John Stokes | https://patents.google.com/patent/US6493947B2/en
+Patent ID: US6493947B2 Scissors | Inventor: Andrew John Stokes | Link: https://patents.google.com/patent/US6493947B2/en
 
 i. Alternatives: Guillotine Paper Cutter or Utility Knife
 ii. The original inventor designed the handles to be long compared with the distance from the pivot to the cutting edge. This provides the mechanical advantage of the scissors allowing a smaller hand force to be applied to produce a larger cutting blade force.
