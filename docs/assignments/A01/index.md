@@ -19,12 +19,12 @@ B. The product is governed by the torque (moment) equation about the pivot. τ =
 
 C.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg">
+<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpg">
 
 
 Left Blade/Handle and Right Blade/Handle
 
-<img width="2000" height="2000" alt="IMG_9986" src="IMG_9986.jpeg">
+<img width="2000" height="2000" alt="IMG_9986" src="IMG_9986.jpg">
 
 
 Connecting Screw
