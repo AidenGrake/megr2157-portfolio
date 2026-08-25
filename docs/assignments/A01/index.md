@@ -15,11 +15,14 @@ This portfolio was designed where a reader could easily locate any specific assi
 
 A. The mechanical function of scissors is to convert an applied hand force into a concentrated shearing force between the two blades which produces relative sliding motion that cuts material.
 
-B. The product is governed by the torque (moment) equation about the pivot. τ = F*d is the primary model and F(hand)*d(hand) = F(blade)*d(blade) is the blade force that can be related by the torque equation. An assumption to be made that makes the model valid is that the friction force at the pivot is negligible and treated as a right lever pivot.
+B. The product is governed by the torque (moment) equation about the pivot. τ = F*d is the primary model and F(hand) * d(hand) = F(blade) * d(blade) is the blade force that can be related by the torque equation. An assumption to be made that makes the model valid is that the friction force at the pivot is negligible and treated as a right lever pivot.
 
 C.
+
 1. Left Blade/Handle
+
 2. Right Blade/Handle
+
 3. Connecting Screw
 
 D. 
