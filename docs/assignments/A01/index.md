@@ -23,7 +23,7 @@ C.
 
 Left Blade/Handle and Right Blade/Handle
 
-<img width="2000" height="2000" alt="IMG_9986" src=https://github.com/aidengrake/megr2157-portfolio/blob/main/IMG_9986.jpeg/>
+<img width="2000" height="2000" alt="IMG_9986" src=https://github.com/aidengrake/megr2157-portfolio/blob/main/IMG_9986.jpg/>
 Connecting Screw
 
 
