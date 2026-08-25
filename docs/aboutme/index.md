@@ -11,8 +11,6 @@ Throughout my engineering education, I have worked to develop both my technical 
 
 As I continue my education, I hope to further develop my engineering skills and gain experience working on increasingly complex mechanical and motorsports projects. I am interested in applying what I learn in the classroom to practical engineering challenges and continuing to develop as an engineer capable of contributing to the design and development of high-performance mechanical systems.
 
-**What Does It Mean to Defend an Engineering Decision?** 
-
-To defend an engineering decision to me means being able to fully defend my design decision. Providing full validation for all of my designs and being able to explain every decision I made thoughtfully. Including being able to explain why my decision is the superior option compared to other alternatives.
+**What Does It Mean to Defend an Engineering Decision?** - To defend an engineering decision to me means being able to fully defend my design decision. Providing full validation for all of my designs and being able to explain every decision I made thoughtfully. Including being able to explain why my decision is the superior option compared to other alternatives.
 
 I spent about two days working on this assignment. 
