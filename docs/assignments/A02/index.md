@@ -33,24 +33,24 @@ Now that all the truss was calculated, it was time to solve the solve the minimu
 
 With all of the design and math complete for my truss, I was able to start designing in CAD. I decided to use Solidworks 2025 as it is the software I am most confident in compared to Creo or Fusion. In the image below is of the 0.5m member. 
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> fbd
+<img width="2000" height="2000" alt="IMG_9984" src="IMG10.jpeg">
 
 In the image below is the pin hole in all of the truss members. The diameter of all the holes is 8.51mm.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> 500mm cad
+<img width="2000" height="2000" alt="IMG_9984" src="IMG11.jpeg">
 
 After designing the 0.5m member, I made a 0.8m and 1.6m members in CAD in the same design manor where the 0.8m was shorten to 0.788m and 1.556m for the 1.6m member. But all of the pin holes the proper length. After the trusses were all created, I designed my pin to the appropriate diameter. After this was done, I started to create my assembly after inserting the first pin into the truss as seen in the image below.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> pin in truss
+<img width="2000" height="2000" alt="IMG_9984" src="IMG15.jpeg">
 
 I created two pins, a 0.25m and 0.35m pin to account for two and three members coming together at the same point as I made my thickness for the trusses to be 0.1m. While I was creating the assembly I noticed an issue, there was a gap I couldn't fill in due to the placement of all the trusses, so, in order to correct this, I made a 1.6m truss at the top so it would be one single plane instead of two at the top which fixed the issue.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> gap in og
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> no gap in correction
+<img width="2000" height="2000" alt="IMG_9984" src="IMG12.jpeg">
+<img width="2000" height="2000" alt="IMG_9984" src="IMG13.jpeg">
 
 This is  the final look of my truss assembly with different steel materials added to the trusses and pins (hence the color change).
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> final truss
+<img width="2000" height="2000" alt="IMG_9984" src="IMG14.jpeg">
 
 With the CAD complete and the steel materials added and ensuring it met the safety factor, weight optimized goal and the geometric constraints. Then, I determined the predicted weight accordingly utilizing the CAD.
 
