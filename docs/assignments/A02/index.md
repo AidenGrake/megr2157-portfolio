@@ -48,7 +48,7 @@ I created two pins, a 0.25m and 0.35m pin to account for two and three members c
 <img width="2000" height="2000" alt="IMG_9984" src="IMG12.jpeg">
 <img width="2000" height="2000" alt="IMG_9984" src="IMG13.jpeg">
 
-This is  the final look of my truss assembly with different steel materials added to the trusses and pins (hence the color change).
+This is the final look of my truss assembly with different steel materials added to the trusses and pins (hence the color change).
 
 <img width="2000" height="2000" alt="IMG_9984" src="IMG14.jpeg">
 
@@ -58,5 +58,7 @@ With the CAD complete and the steel materials added and ensuring it met the safe
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 The geometry I selected was three triangles all stacked together. This decision was made because a triangle is the strongest geometric shape.
+
 ## Communicate
+I learned a lot throughout this project. Learning how to actually assemble components I designed together was my biggest lesson. Being able to see how what I design on paper isn't what always comes how I intended and how to approach the problem and solve it was a big learning curve. Another lesson I learned was time management, this assignment took me 10-12 hours to complete so I made the excellent decision to start early. Had I not, I would've been behind and potentially not have the assignment completed.
 
