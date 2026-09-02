@@ -3,30 +3,28 @@
 ## Objective
 For assignment #2, I was assigned to design a truss model to support the given loads based on the constraints below.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG1.jpeg"> pareamte
+<img width="2000" height="2000" alt="IMG_9984" src="IMG1.jpeg">
 
-After much consideration and sketching many different designs, I finally landed on the one in the image below. The cross sectional area was to set identical for each element. The trusses need to be designed to be made out of A500 structural steel. The pins as well needed to have identical cross-sectional geometry.
+After much consideration and sketching many different designs, I finally landed on the design in the image below. The cross sectional area was to set identical for each element. The trusses need to be designed to be made out of A500 structural steel. The pins as well needed to have identical cross-sectional geometry.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG2.jpeg"> design
+<img width="2000" height="2000" alt="IMG_9984" src="IMG2.jpeg">
 
 ## Analyze
-Following completing my design, the next task was to find all the external forces in order to solve all of my internal forces of the truss geometry.
-The calculations below demonstrate the process of solving all the forces with A being a pin and B being a roller force in the image below.
+Following completing my design, the next task was to find all the external forces in order to solve all of my internal forces of the truss geometry. The calculations below demonstrate the process of solving all the forces with A being a pin and B being a roller force in the image below.
 
-
-<img width="2000" height="2000" alt="IMG_9984" src="IMG3.jpeg"> external
-<img width="2000" height="2000" alt="IMG_9984" src="IMG4.jpeg"> internal1
+<img width="2000" height="2000" alt="IMG_9984" src="IMG3.jpeg">
+<img width="2000" height="2000" alt="IMG_9984" src="IMG4.jpeg">
 
 After calculating my external forces, it was time to solve the internal forces using "Method of Joints" for each joint of the truss. I started at joint B and worked through each joint. Calculations and solutions for the internal equations can be found in the images below.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG5.jpeg"> internal1
-<img width="2000" height="2000" alt="IMG_9984" src="IMG6.jpeg"> internal2
-<img width="2000" height="2000" alt="IMG_9984" src="IMG7.jpeg"> internal ansqwe
+<img width="2000" height="2000" alt="IMG_9984" src="IMG5.jpeg">
+<img width="2000" height="2000" alt="IMG_9984" src="IMG6.jpeg">
+<img width="2000" height="2000" alt="IMG_9984" src="IMG7.jpeg">
 
 Now that all the external and internal forces were solved, next it was time to calculate the cross-sectional area of the elements using a safety factor of 3.5 and yield strength. As well as approximating the weight of the truss using the largest internal force. In the images below, all the unknowns are listed as well as the calculations for cross-sectional area and weight of the truss.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG8.jpeg"> unknown
-<img width="2000" height="2000" alt="IMG_9984" src="IMG9.jpeg"> area and weight 
+<img width="2000" height="2000" alt="IMG_9984" src="IMG8.jpeg">
+<img width="2000" height="2000" alt="IMG_9984" src="IMG9.jpeg">
 
 Now that all the truss was calculated, it was time to solve the solve the minimum cross-sectional area and approximate the combined weight of the of the pins. The pins are made of a hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in^3. We can also assume the pins are in compression and won't fail in buckling. Also, a saftey factor of 4 was needed. Calculations and solutions for the pins can be found in the images below as well as a free body diagram.
 
