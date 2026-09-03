@@ -92,11 +92,9 @@ Von Mises Criteria establishes yield strength of ductile structural steel at 60%
 
 ## CAD Files
 
-## CAD Files
-
-- [Download 25 mm Pin](https://raw.githubusercontent.com/aidengrake/REPOSITORY/main/docs/assignments/A02/SopH_D_25mm_Pin.SLDPRT)
-- [Download 35 mm Pin](https://raw.githubusercontent.com/aidengrake/REPOSITORY/main/docs/assignments/A02/SopH_D_35mm_Pin.SLDPRT)
-- [Download 500 mm Truss](https://raw.githubusercontent.com/aidengrake/REPOSITORY/main/docs/assignments/A02/SopH_D_500mm_Truss.SLDPRT)
-- [Download 800 mm Truss](https://raw.githubusercontent.com/aidengrake/REPOSITORY/main/docs/assignments/A02/SopH_D_800mm_Truss.SLDPRT)
-- [Download 1600 mm Truss](https://raw.githubusercontent.com/aidengrake/REPOSITORY/main/docs/assignments/A02/SopH_D_1600mm_Truss.SLDPRT)
-- [Download Truss Assembly](https://raw.githubusercontent.com/aidengrake/REPOSITORY/main/docs/assignments/A02/SopH_D_A2_Truss_AssemblyV2.SLDASM)
+- (./SopH_D_25mm_Pin.SLDPRT)
+- (./SopH_D_35mm_Pin.SLDPRT)
+- (./SopH_D_500mm_Truss.SLDPRT)
+- (./SopH_D_800mm_Truss.SLDPRT)
+- (./SopH_D_1600mm_Truss.SLDPRT)
+- (./SopH_D_A2_Truss_AssemblyV2.SLDASM)
