@@ -66,5 +66,26 @@ The geometry I selected was three triangles all stacked together. This decision 
 I learned a lot throughout this project. Learning how to actually assemble components I designed together was my biggest lesson. Being able to see what I design on paper isn't what always comes how I intended and how to approach the problem and solve it was a big learning curve. Another lesson I learned was time management. This assignment took me 10–12 hours to complete, so I made the excellent decision to start early. Had I not, I would've been behind and potentially not have the assignment completed.
 
 ## Likelihood of Failure Modes in Truss Components
+**Part 1:**
+1. The expected failure mode for each truss is:
+AD, BE, DE are in tension, therefore, tensile yielding.
+AE, BC, CE are in compression, therefore, buckling.
+CD is a zero-force member, therefore, no structural failure under primary design loads.
+
+2. A500 Structural Steel is a brittle material.
+
+3.
+   For the tension members (AD, BE, DE), they're primarily against yielding stress. The calculated tensile stresses are below the allowable stress, so the members are sized safely. 
+   For the compression members (AE, BC, CE), can fail in buckling before reaching the yield strength. But, since they're assumed to not fail under buckling they're against compressive stress. The calculated compressive stresses are below the allowable stress, so the members are sized safely. 
+
+4. A design modification I would do is to increase the cross-sectional area. This would which reduces compressive stress.
+
+**Part 2:**
+1. The expected failure mode for the pins is shear across the pin cross-sectional area
+
+2. Known credible sources: https://www.sciencedirect.com/topics/engineering/von-mises-criteria
+
+
+3. A design modification I would do is to increase the pin diameter. This would increase the cross-sectional area which reduces the shear stress to below maximum shear strength.
 
 ## CAD Files
