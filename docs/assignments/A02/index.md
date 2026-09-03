@@ -76,15 +76,16 @@ CD is a zero-force member, therefore, no structural failure under primary design
 
 3.
    For the tension members (AD, BE, DE), they're primarily against yielding stress. The calculated tensile stresses are below the allowable stress, so the members are sized safely. 
-   For the compression members (AE, BC, CE), can fail in buckling before reaching the yield strength. But, since they're assumed to not fail under buckling they're against compressive stress. The calculated compressive stresses are below the allowable stress, so the members are sized safely. 
 
-4. A design modification I would do is to increase the cross-sectional area. This would which reduces compressive stress.
+  For the compression members (AE, BC, CE), can fail in buckling before reaching the yield strength. But, since they're assumed to not fail under buckling they're against compressive stress. The calculated compressive stresses are below the allowable stress, so the members are sized safely. 
+
+5. A design modification I would do is to increase the cross-sectional area. This would which reduces compressive stress.
 
 **Part 2:**
 1. The expected failure mode for the pins is shear across the pin cross-sectional area
 
 2. Known credible sources: https://www.sciencedirect.com/topics/engineering/von-mises-criteria
-
+Von Mises Criteria establishes yield strength of ductile structural steel at 60% of the tensile yield strength. Shear stress is lower than tensile yield strength, causing pins under load to fail mostly in shear.
 
 3. A design modification I would do is to increase the pin diameter. This would increase the cross-sectional area which reduces the shear stress to below maximum shear strength.
 
