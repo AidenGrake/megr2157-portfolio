@@ -85,6 +85,7 @@ CD is a zero-force member, therefore, no structural failure under primary design
 1. The expected failure mode for the pins is shear across the pin cross-sectional area
 
 2. Known credible sources: https://www.sciencedirect.com/topics/engineering/von-mises-criteria
+   
 Von Mises Criteria establishes yield strength of ductile structural steel at 60% of the tensile yield strength. Shear stress is lower than tensile yield strength, causing pins under load to fail mostly in shear.
 
 3. A design modification I would do is to increase the pin diameter. This would increase the cross-sectional area which reduces the shear stress to below maximum shear strength.
