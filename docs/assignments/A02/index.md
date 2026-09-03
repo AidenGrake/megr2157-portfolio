@@ -28,12 +28,11 @@ Now that all the external and internal forces were solved, next it was time to c
 
 Now that all the truss is calculated, it was time to solve the minimum cross-sectional area and approximate the combined weight of the pins. The pins are made of a hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in^3. We can also assume the pins are in compression and won't fail in buckling. Also, a safety factor of 4 was needed. Calculations and solutions for the pins can be found in the images below as well as a free body diagram.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> area and wieght
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> fbd
+<img width="2000" height="2000" alt="IMG_9984" src="IMG16.jpeg"> area and wieght
 
 With all the design and math complete for my truss, I was able to start designing in CAD. Since A500 structural steel is not in Solidworks, I decided to chose ASTM A36 Steel as my substitute. Listed below are the properties of the material.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG_9984.jpeg"> material properties
+<img width="2000" height="2000" alt="IMG_9984" src="IMG17.jpeg"> material properties
 
 I decided to use Solidworks 2025 as it is the software I am most confident in compared to Creo or Fusion. In the image below, it is of the 0.5m member.
 
@@ -58,7 +57,7 @@ This is the final look of my truss assembly with different steel materials added
 
 With the CAD complete and the steel materials added and ensuring it met the safety factor, weight optimized goal and the geometric constraints. I used the Solidworks "Mass Properties" feature in order to determine the predicted weight accordingly.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG42.jpeg"> properties
+<img width="2000" height="2000" alt="IMG_9984" src="IMG18.jpeg">
 
 ## Decide
 The geometry I selected was three triangles all stacked together. This decision was made because a triangle is the strongest geometric shape. This geometry also ensured that all the lengths and angles would be equal as the three triangles are the same size.
@@ -67,3 +66,5 @@ The geometry I selected was three triangles all stacked together. This decision 
 I learned a lot throughout this project. Learning how to actually assemble components I designed together was my biggest lesson. Being able to see what I design on paper isn't what always comes how I intended and how to approach the problem and solve it was a big learning curve. Another lesson I learned was time management. This assignment took me 10–12 hours to complete, so I made the excellent decision to start early. Had I not, I would've been behind and potentially not have the assignment completed.
 
 ## Likelihood of Failure Modes in Truss Components
+
+## CAD Files
