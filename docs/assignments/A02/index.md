@@ -91,3 +91,5 @@ Von Mises Criteria establishes yield strength of ductile structural steel at 60%
 3. A design modification I would do is to increase the pin diameter. This would increase the cross-sectional area which reduces the shear stress to below maximum shear strength.
 
 ## CAD Files
+
+
