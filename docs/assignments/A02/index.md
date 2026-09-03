@@ -28,11 +28,11 @@ Now that all the external and internal forces were solved, next it was time to c
 
 Now that all the truss is calculated, it was time to solve the minimum cross-sectional area and approximate the combined weight of the pins. The pins are made of a hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in^3. We can also assume the pins are in compression and won't fail in buckling. Also, a safety factor of 4 was needed. Calculations and solutions for the pins can be found in the images below as well as a free body diagram.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG16.jpeg"> area and wieght
+<img width="2000" height="2000" alt="IMG_9984" src="IMG16.jpeg">
 
 With all the design and math complete for my truss, I was able to start designing in CAD. Since A500 structural steel is not in Solidworks, I decided to chose ASTM A36 Steel as my substitute. Listed below are the properties of the material.
 
-<img width="2000" height="2000" alt="IMG_9984" src="IMG17.jpeg"> material properties
+<img width="2000" height="2000" alt="IMG_9984" src="IMG17.jpeg">
 
 I decided to use Solidworks 2025 as it is the software I am most confident in compared to Creo or Fusion. In the image below, it is of the 0.5m member.
 
