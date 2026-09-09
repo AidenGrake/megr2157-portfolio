@@ -55,3 +55,8 @@ I learned a lot from this project. I have never used FEA before and not on Solid
 [SophD_A3.SLDPRT](SophD_A3.SLDPRT)
 
 ## Modify Design Parameters
+Now that I was tasked to modify my parameters, I decided to increase everything in hopes of getting a smaller percent error. My prediction was that my length would increase, since I increased all of my values. After making this guess, I calculated my new values.
+
+<img width="2000" height="2000" alt="IMG14" src="IMG14.jpeg">
+
+My prediction was correct based off of my calculations. My length increased and by a significant amount too.
