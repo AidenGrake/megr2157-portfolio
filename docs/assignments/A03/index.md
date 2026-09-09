@@ -52,6 +52,6 @@ I learned a lot from this project. I have never used FEA before and not on Solid
 
 ## CAD File
 
-[SophD_25mm_Pin.SLDPRT](SophD_25mm_Pin.SLDPRT)
+[SophD_A3.SLDPRT](SophD_A3.SLDPRT)
 
 ## Modify Design Parameters
