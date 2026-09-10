@@ -47,6 +47,10 @@ With all the tests complete, I checked that the maximum stress was lower than th
 
 There is a meaningful discrepancy between the two deflections. I would say the root cause of the discrepancy is the material property difference. There is a meaningful difference between Young's modulus and the yield strength from the hand calculations and the actual from the 6061-T4 (SS). This big disparity, I believe, will cause this discrepancy. I would trust the FEA results more for this design, as it actually takes into account real properties and gives real data that was tested in the real world, which would be very similar.
 
+Following this, I estimated my peak stress and my safety factor if I added a pin hole into the bar.
+
+<img width="2000" height="2000" alt="IMG15" src="IMG15.jpeg">
+
 ## Lessons Learned
 I learned a lot from this project. I have never used FEA before and not on Solidworks, so, learning how to set up was a difficult learning curve as I was having trouble how to add my fixed geometry to the correct dimension. I was also having trouble with my units. I didn't realize at first I could convert the units in the FEA analysis in Solidworks automatically. This assignment took me around 4 hours.
 
