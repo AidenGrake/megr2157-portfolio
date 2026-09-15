@@ -27,11 +27,11 @@ In the figure below, you can see a drawn out isometric view of the full assembly
 <img width="2000" height="2000" alt="IMG5" src="IMG5.jpeg">
 
 ## CAD Model (Parametric)
-I started off with my CAD model for feature #1. The first thing I did was setting up my parametric equations as seen in the figure below.
+I started off with my CAD model for feature #1. The first thing I did was set up my parametric equations as seen in the figure below.
 
 <img width="2000" height="2000" alt="IMG6" src="IMG6.jpeg">
 
-After having my parametric equations set up, I started off with the overall shape of feature #1 using values I previously solved. I then made the 18mm indent by making it 2mm deep based off the gearbox dimension. I then created my holes for the feature, I made a 6mm hole for the middle for the shaft, then using the 22mm  diameter dimension from the gearbox, I was able to accurately place the 3.4mm bolt holes around the indent. I was able to take advantage of Solidworks circular sketch pattern to streamline the process. In the figures below, are displaying the process of modeling feature #1. 
+After having my parametric equations set up, I started off with the overall shape of feature #1 using values I previously solved. I then made the 18mm indent by making it 2mm deep based off the gearbox dimension. I then created my holes for the feature. I made a 6mm hole in the middle of the shaft, then using the 22mm diameter dimension from the gearbox, I was able to accurately place the 3.4mm boltholes around the indent. I was able to take advantage of Solidworks circular sketch pattern to streamline the process. In the figures below, displaying the process of modeling feature #1.
 
 <img width="2000" height="2000" alt="IMG7" src="IMG7.jpeg">
 <img width="2000" height="2000" alt="IMG8" src="IMG8.jpeg">
@@ -42,7 +42,7 @@ For feature #2, I started off very similar by establishing my parametric equatio
 
 <img width="2000" height="2000" alt="IMG10" src="IMG10.jpeg">
 
-Afterward, I started off with the overall shape of feature #2 using values I previously solved. Then I made a 3.4mm bolt hole and use centerlines around the overall shape to use the symmetric relation to easily have all four bolt holes to be the same size and placed in the correct location.
+Afterward, I started off with the overall shape of feature #2 using values I previously solved. Then I made a 3.4mm bolthole and used centerlines around the overall shape to use the symmetric relation to easily have all four boltholes to be the same size and placed in the correct location.
 
 <img width="2000" height="2000" alt="IMG11" src="IMG11.jpeg">
 <img width="2000" height="2000" alt="IMG12" src="IMG12.jpeg">
@@ -53,12 +53,14 @@ In the figure below is the completed assembly model. With both feature #1 and #2
 <img width="2000" height="2000" alt="IMG14" src="IMG14.jpeg">
 
 ## Drawings - 2157
-With the CAD model complete, I created a Multiview drawing using Solidworks. I included four views, Front View, Right Side View, Top View, and an Isometric View on the sheet. As well as applying ASME standard conventions.
+With the CAD model complete, I created a Multiview drawing using Solidworks. I included four views; Front View, Right Side View, Top View, and an Isometric View on the sheet. As well as applying ASME standard conventions.
 
 <img width="2000" height="2000" alt="IMG15" src="IMG15.jpeg">
 
 ## Files
 
 [SophD_A3.SLDPRT](SophD_A3.SLDPRT)
+
 [SophD_A3.SLDPRT](SophD_A3.SLDPRT)
+
 [SophD_A3.SLDPRT](SophD_A3.SLDPRT)
