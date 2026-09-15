@@ -59,8 +59,8 @@ With the CAD model complete, I created a Multiview drawing using Solidworks. I i
 
 ## Files
 
-[SophD_A3.SLDPRT](SophD_A3.SLDPRT)
+[A4Feature1.SLDPRT](A4Feature1.SLDPRT)
 
-[SophD_A3.SLDPRT](SophD_A3.SLDPRT)
+[A4Feature2.SLDPRT](A4Feature2.SLDPRT)
 
-[SophD_A3.SLDPRT](SophD_A3.SLDPRT)
+[A4Assembly.SLDPRT](A4Assembly.SLDPRT)
