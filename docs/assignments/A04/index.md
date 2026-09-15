@@ -3,7 +3,7 @@
 ## Objective
 For this assignment, I was tasked with designing a motor mount for a Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5:1 Planetary Gearbox. Below is an example of what an assembly looks like of the motor with the mount attached. 
 
-<img width="1000" height="1000" alt="IMG1" src="IMG1.jpeg">
+<img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
 
 The force that is received on the shaft of the motor is 300 Newtons. We have a safety factor required of 3. The max deformation allowed is 0.30mm. In the figure below, you can see the given dimensions of the gearbox that the motor mount will attach too. These dimensions are crucial for designing features 1 and 2. 
 
@@ -54,7 +54,7 @@ In the figure below is the completed assembly model. With both feature #1 and #2
 ## Drawings - 2157
 With the CAD model complete, I created a Multiview drawing using Solidworks. I included four views; Front View, Right Side View, Top View, and an Isometric View on the sheet. As well as applying ASME standard conventions.
 
-<img width="2000" height="2000" alt="IMG15" src="IMG15.jpeg">
+<img width="2000" height="2000" alt="IMG16" src="IMG16.jpeg">
 
 ## Files
 
