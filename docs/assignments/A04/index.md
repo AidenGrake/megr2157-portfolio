@@ -46,10 +46,11 @@ Afterward, I started off with the overall shape of feature #2 using values I pre
 
 <img width="2000" height="2000" alt="IMG12" src="IMG12.jpeg">
 <img width="2000" height="2000" alt="IMG13" src="IMG13.jpeg">
+<img width="2000" height="2000" alt="IMG14" src="IMG14.jpeg">
 
 In the figure below is the completed assembly model. With both feature #1 and #2 placed and mated in the correct locations.
 
-<img width="2000" height="2000" alt="IMG14" src="IMG14.jpeg">
+<img width="2000" height="2000" alt="IMG17" src="IMG17.jpeg">
 
 ## Drawings - 2157
 With the CAD model complete, I created a Multiview drawing using Solidworks. I included four views; Front View, Right Side View, Top View, and an Isometric View on the sheet. As well as applying ASME standard conventions.
