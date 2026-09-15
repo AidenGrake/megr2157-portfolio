@@ -63,4 +63,4 @@ With the CAD model complete, I created a Multiview drawing using Solidworks. I i
 
 [A4Feature2.SLDPRT](A4Feature2.SLDPRT)
 
-[A4Assembly.SLDPRT](A4Assembly.SLDPRT)
+[A4Assembly.SLDASM](A4Assembly.SLDASM)
