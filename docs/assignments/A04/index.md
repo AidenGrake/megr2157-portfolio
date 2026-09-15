@@ -3,7 +3,7 @@
 ## Objective
 For this assignment, I was tasked with designing a motor mount for a Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5:1 Planetary Gearbox. Below is an example of what an assembly looks like of the motor with the mount attached. 
 
-<img width="2000" height="2000" alt="IMG1" src="IMG1.jpeg">
+<img width="1000" height="1000" alt="IMG1" src="IMG1.jpeg">
 
 The force that is received on the shaft of the motor is 300 Newtons. We have a safety factor required of 3. The max deformation allowed is 0.30mm. In the figure below, you can see the given dimensions of the gearbox that the motor mount will attach too. These dimensions are crucial for designing features 1 and 2. 
 
@@ -40,11 +40,10 @@ After having my parametric equations set up, I started off with the overall shap
 
 For feature #2, I started off very similar by establishing my parametric equations as seen in the figure below.
 
-<img width="2000" height="2000" alt="IMG10" src="IMG10.jpeg">
+<img width="2000" height="2000" alt="IMG11" src="IMG11.jpeg">
 
 Afterward, I started off with the overall shape of feature #2 using values I previously solved. Then I made a 3.4mm bolthole and used centerlines around the overall shape to use the symmetric relation to easily have all four boltholes to be the same size and placed in the correct location.
 
-<img width="2000" height="2000" alt="IMG11" src="IMG11.jpeg">
 <img width="2000" height="2000" alt="IMG12" src="IMG12.jpeg">
 <img width="2000" height="2000" alt="IMG13" src="IMG13.jpeg">
 
