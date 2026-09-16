@@ -41,7 +41,7 @@ After having my parametric equations set up, I started off with the overall shap
 <img width="2000" height="2000" alt="IMG13" src="IMG13.jpeg">
 <img width="2000" height="2000" alt="IMG23" src="IMG23.jpeg">
 
-In the figure below is the completed assembly model. With both feature #1 and #2 placed and mated in the correct locations.
+In the figure below is the completed assembly model.
 
 <img width="2000" height="2000" alt="IMG24" src="IMG24.jpeg">
 
