@@ -27,7 +27,7 @@ In the figure below, you can see a drawn out isometric view of the full assembly
 <img width="2000" height="2000" alt="IMG5" src="IMG5.jpeg">
 
 ## CAD Model (Parametric)
-I started off with my CAD model for feature #1. The first thing I did was set up my parametric equations as seen in the figure below.
+The first thing I did was set up my parametric equations as seen in the figure below.
 
 <img width="2000" height="2000" alt="IMG18" src="IMG18.jpeg">
 
