@@ -29,28 +29,21 @@ In the figure below, you can see a drawn out isometric view of the full assembly
 ## CAD Model (Parametric)
 I started off with my CAD model for feature #1. The first thing I did was set up my parametric equations as seen in the figure below.
 
-<img width="2000" height="2000" alt="IMG6" src="IMG6.jpeg">
+<img width="2000" height="2000" alt="IMG18" src="IMG18.jpeg">
 
-After having my parametric equations set up, I started off with the overall shape of feature #1 using values I previously solved. I then made the 18mm indent by making it 2mm deep based off the gearbox dimension. I then created my holes for the feature. I made a 6mm hole in the middle of the shaft, then using the 22mm diameter dimension from the gearbox, I was able to accurately place the 3.4mm boltholes around the indent. I was able to take advantage of Solidworks circular sketch pattern to streamline the process. In the figures below, displaying the process of modeling feature #1.
+After having my parametric equations set up, I started off with the overall shape of feature #1 using values I previously solved. Afterward, I started off with the overall shape of feature #2 building it off of feature #1. From there, I then made the 18mm indent by making it 2mm deep based off the gearbox dimension. I then created my holes for the feature. I made a 6mm hole in the middle of the shaft, then using the 22mm diameter dimension from the gearbox, I was able to accurately place the 3.4mm boltholes around the indent. I was able to take advantage of Solidworks circular sketch pattern to streamline the process. Then, for feature #2, I made a 3.4mm bolthole and used centerlines around the overall shape to use the symmetric relation to easily have all four boltholes to be the same size and placed in the correct location. Finally, I added a 1.5mm fillet on the inside edge of the mount in order minimize deflection. In the figures below is the entire CAD process.
 
 <img width="2000" height="2000" alt="IMG7" src="IMG7.jpeg">
-<img width="2000" height="2000" alt="IMG8" src="IMG8.jpeg">
-<img width="2000" height="2000" alt="IMG9" src="IMG9.jpeg">
-<img width="2000" height="2000" alt="IMG10" src="IMG10.jpeg">
-
-For feature #2, I started off very similar by establishing my parametric equations as seen in the figure below.
-
-<img width="2000" height="2000" alt="IMG11" src="IMG11.jpeg">
-
-Afterward, I started off with the overall shape of feature #2 using values I previously solved. Then I made a 3.4mm bolthole and used centerlines around the overall shape to use the symmetric relation to easily have all four boltholes to be the same size and placed in the correct location.
-
-<img width="2000" height="2000" alt="IMG12" src="IMG12.jpeg">
+<img width="2000" height="2000" alt="IMG19" src="IMG19.jpeg">
+<img width="2000" height="2000" alt="IMG20" src="IMG20.jpeg">
+<img width="2000" height="2000" alt="IMG21" src="IMG21.jpeg">
+<img width="2000" height="2000" alt="IMG22" src="IMG22.jpeg">
 <img width="2000" height="2000" alt="IMG13" src="IMG13.jpeg">
-<img width="2000" height="2000" alt="IMG14" src="IMG14.jpeg">
+<img width="2000" height="2000" alt="IMG23" src="IMG23.jpeg">
 
 In the figure below is the completed assembly model. With both feature #1 and #2 placed and mated in the correct locations.
 
-<img width="2000" height="2000" alt="IMG17" src="IMG17.jpeg">
+<img width="2000" height="2000" alt="IMG24" src="IMG24.jpeg">
 
 ## Drawings - 2157
 With the CAD model complete, I created a Multiview drawing using Solidworks. I included four views; Front View, Right Side View, Top View, and an Isometric View on the sheet. As well as applying ASME standard conventions.
