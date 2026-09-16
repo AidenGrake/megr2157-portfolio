@@ -31,7 +31,7 @@ I started off with my CAD model for feature #1. The first thing I did was set up
 
 <img width="2000" height="2000" alt="IMG18" src="IMG18.jpeg">
 
-After having my parametric equations set up, I started off with the overall shape of feature #1 using values I previously solved. Afterward, I started off with the overall shape of feature #2 building it off of feature #1. From there, I then made the 18mm indent by making it 2mm deep based off the gearbox dimension. I then created my holes for the feature. I made a 6mm hole in the middle of the shaft, then using the 22mm diameter dimension from the gearbox, I was able to accurately place the 3.4mm boltholes around the indent. I was able to take advantage of Solidworks circular sketch pattern to streamline the process. Then, for feature #2, I made a 3.4mm bolthole and used centerlines around the overall shape to use the symmetric relation to easily have all four boltholes to be the same size and placed in the correct location. Finally, I added a 1.5mm fillet on the inside edge of the mount in order minimize deflection. In the figures below is the entire CAD process.
+After having my parametric equations set up, I started off with the overall shape of feature #1 using values I previously solved. Afterward, I started off with the overall shape of feature #2 building it off of feature #1. From there, I then made the 18mm indent by making it 2mm deep based off the gearbox dimension. I then created my holes for the feature. I made a 6mm hole in the middle of the shaft, then using the 22mm diameter dimension from the gearbox, I was able to accurately place the 3.4mm boltholes around the indent. I was able to take advantage of Solidworks circular sketch pattern to streamline the process. Then, for feature #2, I made a 3.4mm bolthole and used centerlines around the overall shape to use the symmetric relation to easily have all four boltholes to be the same size and placed in the correct location. Finally, I added a 1.5mm fillet on the inside edge of the mount in order to minimize deflection. In the figures below is the entire CAD process.
 
 <img width="2000" height="2000" alt="IMG7" src="IMG7.jpeg">
 <img width="2000" height="2000" alt="IMG19" src="IMG19.jpeg">
@@ -55,8 +55,4 @@ From this assignment, I learned about using the circular sketch feature in Solid
 
 ## Files
 
-[A4Feature1.SLDPRT](A4Feature1.SLDPRT)
-
-[A4Feature2.SLDPRT](A4Feature2.SLDPRT)
-
-[A4Assembly.SLDASM](A4Assembly.SLDASM)
+[A4Assembly.SLDPRT](A4Assembly.SLDPRT)
