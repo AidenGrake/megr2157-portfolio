@@ -48,7 +48,7 @@ In the figure below is the completed assembly model.
 ## Drawings - 2157
 With the CAD model complete, I created a Multiview drawing using Solidworks. I included four views; Front View, Right Side View, Top View, and an Isometric View on the sheet. As well as applying ASME standard conventions.
 
-<img width="2000" height="2000" alt="IMG16" src="IMG16.jpeg">
+<img width="2000" height="2000" alt="A4AssemblyDrawing" src="A4AssemblyDrawing.jpeg">
 
 ## Lessons Learned
 From this assignment, I learned about using the circular sketch feature in Solidworks in order to make my CAD design quicker and more efficient. Another lesson I learned is using the Solidworks drawing feature. Learning how to create drawings took some time but in the end I was able to figure it out. I also learned about reading the instructions carefully and understanding what I needed to do before jumping into an assignment. I needed to resubmit this project as I didn't do everything correctly the first time and was quick to submit. In total, this assignment took me around 4 hours to complete.
