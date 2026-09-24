@@ -40,7 +40,7 @@ Now with all of my dimensions for both allowable stress and maximum deflection a
 This assignment has taken me around 5 hours to complete. 
 
 ## 2157
-For this section of the assignment, I used my Machinery's Handbook Volume 32 to find a designated Running/Sliding fit. I started off by designing the dimensions of the link and the image below displays the calculations. Based off the handbook, I chose RC4 running fit and tolerances from the H8 hole. These charts are found on page 645 of the Machinery's Handbook Volume 32 with the pages being shown in the images below. The manufacturing technique is drilling and reaming on the lathe for both the proper fit for feature A and proper fit for the 1-inch shaft.
+For this section of the assignment, I used my Machinery's Handbook Volume 32 to find a designated Running/Sliding fit. I started off by designing the dimensions of the link and the image below displays the calculations. Based off the handbook, I chose RC4 running fit and tolerances from the H8 hole. These charts are found on page 646 of the Machinery's Handbook Volume 32 with the pages being shown in the images below. The manufacturing technique is drilling and reaming on the lathe for both the proper fit for feature A and proper fit for the 1-inch shaft.
  
 <img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
 <img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
