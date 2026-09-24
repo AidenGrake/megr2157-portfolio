@@ -32,7 +32,7 @@ Now with all of my dimensions for both allowable stress and maximum deflection a
 ## Lessons Learned
 
 * Governing failure mode - Feature E: Stress required the height was 0.22in and for deflection, the height was 0.155in.
-* 
+ 
 * Error propagation - A value that was carried over into another equation was my thickness value from B. If that value is off, then other dimensions would be off as well.
 
 * Assumption sensitivity - One assumption I made was my material choice. If I changed my material the yield strength and Young's modulus would change, which would alter all of my dimensions. 
