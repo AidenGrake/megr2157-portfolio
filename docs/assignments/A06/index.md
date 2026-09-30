@@ -19,7 +19,7 @@ After all the dimensions were corrected, I started modeling the top of the brack
 
 With the top of the bracket complete, I moved onto the hanger and pin. I used my global dimensions as I designed both features. I had to adjust my pin length from 0.75in to 1in in order for it to be long enough as 0.75in was to short. 
 
-<img width="500" height="500" alt="IMG11" src="IMG11.jpeg">
+<img width="250" height="350" alt="IMG11" src="IMG11.jpeg">
 <img width="500" height="500" alt="IMG12" src="IMG12.jpeg">
 <img width="500" height="500" alt="IMG13" src="IMG13.jpeg">
 
