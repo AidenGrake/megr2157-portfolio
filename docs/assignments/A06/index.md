@@ -39,6 +39,7 @@ b. For tolerance, I made my a, b, c dimensions to all have a tighter tolerance c
 
 ## 2157
 1. Parametric Design
+For my design, I made the width the same as the 
 
 2. Drawing
 
