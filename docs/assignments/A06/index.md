@@ -25,12 +25,12 @@ With the top of the bracket complete, I moved onto the hanger and pin. I used my
 
 Now that the model was completed, I went through to ensure I chose the correct dimensions for each part of the value. Once I ensured that everything was correct, I moved onto my 2D drawing.
 
-<img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
+<img width="500" height="500" alt="IMG15" src="IMG15.jpeg">
 
 ## Drawing
 For the drawing, I made a new drawing file from the Solidworks part file. I ensured that the drawing was in "Third Angle Projection" and then created my isometric views. I created the front, top and right drawing as well as an isometric view at the top right of the page. Once all my drawing were in and scaled correctly, I added my dimensions accordingly. I ensured to add tolerances where the bracket would slide into the right T beam to make sure that my bracket would fit. Once all the dimensions and tolerances were added, I made sure all the information was correct.
 
-<img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
+<img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
 
 ## Reflection
 a. For feature A, I used a strength equation based off of bending stress in order to calculate my diameter and radius of the pin. I then used this value as a global variable in Solidworks, so if the value needed to be changed, I could do it easily. If this diameter and radius value were to change, the hanger value would need to be re-evaluated to account for the diameter change. This would need to be done by hand.
