@@ -47,5 +47,6 @@ b. For tolerances, I made my a, b, c dimensions to all have a tighter tolerance 
 
 ## Files
 [A4Assembly.SLDPRT](A4Assembly.SLDPRT)
+
 [A4Assembly.SLDPRT](A4Assembly.SLDPRT)
 
