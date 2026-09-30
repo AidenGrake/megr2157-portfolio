@@ -8,7 +8,7 @@ For this assignment, I was tasked to create a 3D model and a 2D drawing of my ca
 ## Parametric Design
 For my bracket, I used my calculations based off my deflection values as they are larger than my stress values, as my design needed the larger values to meet the strength and stiffness requirements of the bracket.
 
-I started off my CAD by adding in all of my parametric equations, however, I noticed a flaw in my calculations. I made an error on my flange length by using the incorrect radius, therefore I solved in the parametric equation the correct value for the length and adjusted my values to match the new correct length as seen in the image below.\
+I started off my CAD by adding in all of my parametric equations, however, I noticed a flaw in my calculations. I made an error on my flange length by using the incorrect radius, therefore I solved in the parametric equation the correct value for the length and adjusted my values to match the new correct length as seen in the image below.
 
 <img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
 
@@ -33,5 +33,19 @@ For the drawing, I made a new drawing file from the Solidworks part file. I ensu
 <img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
 
 ## Reflection
+a. For feature A, I used a strength equation based off of bending stress in order to calculate my diameter and radius of the pin. I then used this value as a global variable in Solidworks, so if the value needed to be changed, I could do it easily. If this diameter and radius value were to change, the hanger value would need to be re-evaluated to account for the diameter change. This would need to be done by hand.
 
+b. For tolerances, I made my a, b, c dimensions to all have a tighter tolerance class, as if the t bar wouldn't fit into the bracket, this would make the whole design essentially useless. For my looser tolerances, I chose non-essential components. For example, my flange width and pin to base dimensions have these looser tolerances as the bracket would still function correctly if the dimensions were slightly off. If every dimension had a tight tolerance, that would rise the manufacturing cost significantly as the tighter the tolerance the more costly it makes to manufacturer. 
+
+## 2157
+1.
+
+2.
+
+3.
+
+
+## Files
+[A4Assembly.SLDPRT](A4Assembly.SLDPRT)
+[A4Assembly.SLDPRT](A4Assembly.SLDPRT)
 
