@@ -46,7 +46,7 @@ b. For tolerance, I made my a, b, c dimensions to all have a tighter tolerance c
 
 
 ## Files
-[A4Assembly.SLDPRT](A4Assembly.SLDPRT)
+[A6Bracket.SLDPRT](A6Bracket.SLDPRT)
 
 [A4Assembly.SLDPRT](A4Assembly.SLDPRT)
 
