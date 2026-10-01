@@ -37,6 +37,8 @@ a. For feature A, I used a strength equation based off of bending stress in orde
 
 b. For tolerance, I made my a, b, c dimensions to all have a tighter tolerance class, as if the t bar wouldn't fit into the bracket. This would make the whole design essentially useless. For my looser tolerances, I chose non-essential components. For example, my flange width and pin to base dimensions have these looser tolerances as the bracket would still function correctly if the dimensions were slightly off. If every dimension had a tight tolerance, that would raise the manufacturing cost significantly, as the tighter the tolerance, the more costly it makes for the manufacturer.
 
+In total, this assignment took me four hours in total.
+
 ## 2157
 1. Parametric Design
 
