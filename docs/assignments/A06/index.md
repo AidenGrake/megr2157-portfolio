@@ -39,12 +39,24 @@ b. For tolerance, I made my a, b, c dimensions to all have a tighter tolerance c
 
 ## 2157
 1. Parametric Design
-For my design, I made the width the same as the 
+
+For my design, I made the width the same as the wall width. I kept the hole cutout diameter the same as the pin diameter. As well as these, I made the link diameter 1in in order to give enough space from the cutout to the edge in order to keep the stress and deflection down. 
+
+<img width="500" height="500" alt="IMG16" src="IMG16.jpeg">
+<img width="500" height="500" alt="IMG17" src="IMG17.jpeg">
+<img width="500" height="500" alt="IMG18" src="IMG18.jpeg">
 
 2. Drawing
 
+With the CAD complete, I then created my drawing. I used the same standards I did with the bracket drawing. I made sure to add callouts for features that interact with the bracket.
+
+<img width="500" height="500" alt="IMG19" src="IMG19.jpeg">
+
 3. Reflection
 
+For this assignment, I learned that tolerances are important when parts interact with one another to ensure proper fitment. For example, I added a clearance hole, which is why the pin diameter in the link is 0.01" to ensure it can easily slide into place.
+
+Dimensions and tolerances are to communicate how parts are to be manufactured. Dimensions are to communicate the size of the part while tolerance is to communicate the variance of the size of the part that will be acceptable to still function correctly.
 
 ## Files
 [A6Bracket.SLDPRT](A6Bracket.SLDPRT)
