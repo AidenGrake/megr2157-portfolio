@@ -11,14 +11,14 @@
 * Reflect on key engineering lessons learned and time spent.
 
 ## Analyze
-For the initial CAD setup for the FEA, I defined both the fixture of where beam holds up the bracket and the load of the strap distributed over the pin. I applied the fixed geometries to the bottom of the two flanges and then created a split load in order for the load to not act all the way around the pin but only facing down. I set my material to be ATSM A36 as it was assigned in assignment #5 and for the initial mesh I used the SolidWorks base mesh which has a total of 8847 total elements. 
+For the initial CAD setup for the FEA, I defined both the fixture where the beam holds up the bracket and the load of the strap distributed over the pin. I applied the fixed geometry to the bottom of the two flanges and then created a split load in order for the load to not act all the way around the pin but only facing down. I set my material to be ATSM A36 as it was assigned in assignment #5 and for the initial mesh, I used the SolidWorks base mesh, which has a total of 8847 total elements.
 
 <img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
 <img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
 
 ## First Design
-My first design is the model I initially created for assignment #5 and #6 and the mesh will be the SolidWorks base mesh. From here, I can make the mesh finer and then find the convergence to these initial values as I continue throughout my design. 
+My first design is the model I initially created for assignment #5 and #6 and the mesh will be the SolidWorks base mesh. From here, I can make the mesh finer and then find the convergence of these initial values as I continue throughout my design.
 
 The Max Stress after the simulation was 624,400 psi in section B of the Bracket.
 The Max deflection after the simulation was 0.2388 in at the end of part A of the Bracket.
@@ -30,7 +30,7 @@ The Number of Elements was 8,847.
 <img width="500" height="500" alt="IMG4" src="IMG4.jpeg">
 <img width="500" height="500" alt="IMG5" src="IMG5.jpeg">
 
-Now that I have the base values for the initial design, I'm going to find a finer mesh and calculate the values convergence with initial values to see if they get within 7% of error. After making the mesh finer, I got my first results and compared to my initial values. The Number of Elements was 24,639.
+Now that I have the base values for the initial design, I'm going to find a finer mesh and calculate the values' convergence with initial values to see if they get within 7% of error. After making the mesh finer, I got my first results and compared them to my initial values. The Number of Elements was 24,639.
 
 <img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
 <img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
@@ -56,10 +56,10 @@ Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
 
 SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 
-Despite these results didn't meet the 7% convergence, I decided to move onto my second design.
+Despite these results not meeting the 7% convergence, I decided to move onto my second design.
 
 ## Second Design
-For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initials values found from the tests. The Number of Elements was 57,197 and the Safety Factor was 0.088.
+For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initial values found from the tests. The Number of Elements was 57,197 and the Safety Factor was 0.088.
 
 <img width="500" height="500" alt="IMG10" src="IMG10.jpeg">
 <img width="500" height="500" alt="IMG11" src="IMG11.jpeg">
@@ -77,7 +77,7 @@ Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
 
 SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 
-With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my values found from the tests.
+With two of the three values not meeting the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my values found from the tests.
 
 <img width="500" height="500" alt="IMG16" src="IMG16.jpeg">
 <img width="500" height="500" alt="IMG17" src="IMG17.jpeg">
@@ -88,10 +88,10 @@ Max Deflection: ((0.1069 - 0.1074) / 0.1074) * 100 = 0.47%
 
 SF: ((0.075 - 0.070) / 0.070) * 100 = 7.14%
 
-Despite one of these results didn't meet the 7% convergence, I decided to move onto my third design.
+Despite one of these results not meeting the 7% convergence, I decided to move onto my third design.
 
 ## Third Design
-For my third design, I added fillets to the design. I rounded off the edges of the bracket to be 0.10in to cut out weight where it wasn't needed. After doing that, I added a 0.20in to the connection of the bracket of B to the pin of A to increase strength. Finally, I added a 0.15in fillet to the connection from B to C to increase strength as it was still the higher concentrations of stress. I chose to add fillets as they don't add much weight. In the screenshots below are my initials values found from the tests. The Number of Elements was 56,888 and the Safety Factor was 0.13.
+For my third design, I added fillets to the design. I rounded off the edges of the bracket to be 0.10in to cut out weight where it wasn't needed. After doing that, I added a 0.20in to the connection of the bracket of B to the pin of A to increase strength. Finally, I added a 0.15in fillet to the connection from B to C to increase strength as it was still the higher concentrations of stress. I chose to add fillets as they don't add much weight. In the screenshots below are my initial values found from the tests. The Number of Elements was 56,888 and the Safety Factor was 0.13.
 
 <img width="500" height="500" alt="IMG18" src="IMG18.jpeg">
 <img width="500" height="500" alt="IMG19" src="IMG19.jpeg">
@@ -116,7 +116,7 @@ With all these values being within 7%, I filled out the table as seen below.
 <img width="500" height="500" alt="IMG26" src="IMG26.jpeg">
 
 ## Reflection
-Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement means I'm on the right track and understanding the process of engineering design. I believe if I made the bracket thickness larger I could improve my Safety Factor and bring down the stress. This assignment has taught me a lot about FEA and the processes to improve and optimize part design. This project helped me think of solutions in order to improve my part while still maintaining the basic shape and keeping the critical components the same. This project also helped me learn about model convergence and how an impact mesh refinement has on the FEA. This assignment took me 9 hours to complete.
+Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement means I'm on the right track and understanding the process of engineering design. I believe if I made the bracket thickness larger I could improve my Safety Factor and bring down the stress. This assignment has taught me a lot about FEA and the processes to improve and optimize part design. This project helped me think of solutions in order to improve my part while still maintaining the basic shape and keeping the critical components the same. This project also helped me learn about model convergence and what an impact mesh refinement has on the FEA. This assignment took me 9 hours to complete.
 
 ## 2157
 For my link, I did the same process as I did with my bracket. In the screenshots below are my results for the initial design. The Number of Elements was 10,120 after the initial mesh. The Safety Factor was 0.813.
