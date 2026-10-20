@@ -26,6 +26,12 @@ The Mass after the simulation was 0.39 lb.
 The Safety Factor after the simulation was 0.058.
 The Number of Elements was 8847.
 
+<img width="500" height="500" alt="IMG3" src="IMG3.jpeg">
+<img width="500" height="500" alt="IMG4" src="IMG4.jpeg">
+<img width="500" height="500" alt="IMG5" src="IMG5.jpeg">
+
+
+
 
 ## Second Design
 
