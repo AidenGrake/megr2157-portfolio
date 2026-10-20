@@ -106,7 +106,7 @@ Max Deflection: ((0.09784 - 0.09797) / 0.09797) * 100 = 0.13%
 
 SF: ((0.13 - 0.13) / 0.13) * 100 = 0.00%
 
-Now below is the table filled out with all the values completed. 
+Now below is the table filled out with all the correct values. 
 
 <img width="500" height="500" alt="IMG22" src="IMG22.jpeg">
 
@@ -135,7 +135,7 @@ SF: ((0.813 - 0.82) / 0.82) * 100 = 0.85%
 
 These all were below 7% convergence, but with a low Safety Factor, I moved onto design two.
 
-For design two, I doubled the thickness of the link. The Number of Elements is 16,083 and the screenshots below display my results. 
+For design two, I doubled the thickness of the link. The Number of Elements is 16,083 and the screenshots below display my results. Even though it did double my weight, the weight wasn't very large to begin with.
 
 <img width="500" height="500" alt="IMG29" src="IMG29.jpeg">
 <img width="500" height="500" alt="IMG30" src="IMG30.jpeg">
@@ -153,13 +153,26 @@ SF: ((1.6 - 1.6) / 1.6) * 100 = 0.00%
 
 These all were below 7% convergence, I moved onto design two.
 
-For design three, I added a .25" gap from the bottom hole to the end of the fixture while maintaining the new thickness from design two. The Number of Elements was 17,669 and a Safety Factor of 2.3. The rest of the results are displayed in the screenshots below.
+For design three, I added a .25" gap from the bottom hole to the end of the fixture while maintaining the new thickness from design two. I chose this as it only added 0.1lbs. The Number of Elements was 17,669 and a Safety Factor of 2.3. The rest of the results are displayed in the screenshots below.
 
 <img width="500" height="500" alt="IMG34" src="IMG34.jpeg">
 <img width="500" height="500" alt="IMG35" src="IMG35.jpeg">
 <img width="500" height="500" alt="IMG36" src="IMG36.jpeg">
 <img width="500" height="500" alt="IMG37" src="IMG37.jpeg">
 
+Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 37,749 and calculated my convergence.
+
+Max Stress: ((15750 - 15730) / 15750) * 100 = 0.1270%
+
+Max Deflection: ((0.0006083 - 0.0006083) / 0.0006083) * 100 = 0.00%
+
+SF: ((2.3 - 2.3) / 2.3) * 100 = 0.00%
+
+Now below is the table filled out with all the correct values. 
+
+<img width="500" height="500" alt="IMG38" src="IMG38.jpeg">
+
 ## CAD Files
 [A7Bracket.SLDPRT](A7Bracket.SLDPRT)
+
 [A7Link.SLDPRT](A7Link.SLDPRT)
