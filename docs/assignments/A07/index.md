@@ -97,6 +97,8 @@ For my third design, I added fillets to the design. I rounded off the edges of t
 <img width="500" height="500" alt="IMG19" src="IMG19.jpeg">
 <img width="500" height="500" alt="IMG20" src="IMG20.jpeg">
 <img width="500" height="500" alt="IMG21" src="IMG21.jpeg">
+<img width="500" height="500" alt="IMG22" src="IMG22.jpeg">
+<img width="500" height="500" alt="IMG23" src="IMG23.jpeg">
 
 Now that I have the base values for the third design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 94,001 after the second mesh. In the screenshots below are my values found from the tests.
 
@@ -108,19 +110,19 @@ SF: ((0.13 - 0.13) / 0.13) * 100 = 0.00%
 
 Now below is the table filled out with all the correct values. 
 
-<img width="500" height="500" alt="IMG22" src="IMG22.jpeg">
+<img width="500" height="500" alt="IMG24" src="IMG24.jpeg">
 
 ## Reflection
-Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement means I'm on the right track and understanding the process of engineering design. I believe if I made the bracket thickness larger I could improve my Safety Factor and bring down the stress. This assignment has taught me a lot about FEA and the processes to improve and optimize part design. This project helped me think of solutions in order to improve my part while still maintaining the basic shape and keeping the critical components the same. This project also helped me learn about model convergence and how an impact mesh refinement has on the FEA. This assignment took me 5 hours to complete.
+Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement means I'm on the right track and understanding the process of engineering design. I believe if I made the bracket thickness larger I could improve my Safety Factor and bring down the stress. This assignment has taught me a lot about FEA and the processes to improve and optimize part design. This project helped me think of solutions in order to improve my part while still maintaining the basic shape and keeping the critical components the same. This project also helped me learn about model convergence and how an impact mesh refinement has on the FEA. This assignment took me 9 hours to complete.
 
 ## 2157
 For my link, I did the same process as I did with my bracket. In the screenshots below are my results for the initial design. The Number of Elements was 10,120 after the initial mesh. The Safety Factor was 0.813.
 
-<img width="500" height="500" alt="IMG23" src="IMG23.jpeg">
-<img width="500" height="500" alt="IMG24" src="IMG24.jpeg">
 <img width="500" height="500" alt="IMG25" src="IMG25.jpeg">
 <img width="500" height="500" alt="IMG26" src="IMG26.jpeg">
 <img width="500" height="500" alt="IMG27" src="IMG27.jpeg">
+<img width="500" height="500" alt="IMG28" src="IMG28.jpeg">
+<img width="500" height="500" alt="IMG29" src="IMG29.jpeg">
 
 Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 16,245 and calculated my convergence.
 
@@ -130,18 +132,18 @@ Max Deflection: ((0.001914 - 0.001914) / 0.001914) * 100 = 0.00%
 
 SF: ((0.813 - 0.82) / 0.82) * 100 = 0.85%
 
-<img width="500" height="500" alt="IMG28" src="IMG16.jpeg">
-<img width="500" height="500" alt="IMG28" src="IMG17.jpeg">
+<img width="500" height="500" alt="IMG30" src="IMG30.jpeg">
+<img width="500" height="500" alt="IMG31" src="IMG31.jpeg">
 
 These all were below 7% convergence, but with a low Safety Factor, I moved onto design two.
 
 For design two, I doubled the thickness of the link. The Number of Elements is 16,083 and the screenshots below display my results. Even though it did double my weight, the weight wasn't very large to begin with.
 
-<img width="500" height="500" alt="IMG29" src="IMG29.jpeg">
-<img width="500" height="500" alt="IMG30" src="IMG30.jpeg">
-<img width="500" height="500" alt="IMG31" src="IMG31.jpeg">
 <img width="500" height="500" alt="IMG32" src="IMG32.jpeg">
 <img width="500" height="500" alt="IMG33" src="IMG33.jpeg">
+<img width="500" height="500" alt="IMG34" src="IMG34.jpeg">
+<img width="500" height="500" alt="IMG35" src="IMG35.jpeg">
+<img width="500" height="500" alt="IMG36" src="IMG36.jpeg">
 
 Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 34,631 and calculated my convergence.
 
@@ -155,10 +157,10 @@ These all were below 7% convergence, I moved onto design two.
 
 For design three, I added a .25" gap from the bottom hole to the end of the fixture while maintaining the new thickness from design two. I chose this as it only added 0.1lbs. The Number of Elements was 17,669 and a Safety Factor of 2.3. The rest of the results are displayed in the screenshots below.
 
-<img width="500" height="500" alt="IMG34" src="IMG34.jpeg">
-<img width="500" height="500" alt="IMG35" src="IMG35.jpeg">
-<img width="500" height="500" alt="IMG36" src="IMG36.jpeg">
 <img width="500" height="500" alt="IMG37" src="IMG37.jpeg">
+<img width="500" height="500" alt="IMG38" src="IMG38.jpeg">
+<img width="500" height="500" alt="IMG39" src="IMG39.jpeg">
+<img width="500" height="500" alt="IMG40" src="IMG40.jpeg">
 
 Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 37,749 and calculated my convergence.
 
@@ -170,7 +172,7 @@ SF: ((2.3 - 2.3) / 2.3) * 100 = 0.00%
 
 Now below is the table filled out with all the correct values. 
 
-<img width="500" height="500" alt="IMG38" src="IMG38.jpeg">
+<img width="500" height="500" alt="IMG41" src="IMG41.jpeg">
 
 ## CAD Files
 [A7Bracket.SLDPRT](A7Bracket.SLDPRT)
