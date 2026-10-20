@@ -91,7 +91,14 @@ SF: ((0.075 - 0.070) / 0.070) * 100 = 7.14%
 Despite one of these results didn't meet the 7% convergence, I decided to move onto my third design.
 
 ## Third Design
-For my third design, 
+For my third design, I added fillets to the design. I rounded off the edges of the bracket to be 0.10in to cut out weight where it wasn't needed. After doing that, I added a 0.20in to the connection of the bracket of B to the pin of A to increase strength. Finally, I added a 0.15in fillet to the connection from B to C to increase strength as it was still the higher concentrations of stress. I chose to add fillets as they don't add much weight. In the screenshots below are my initials values found from the tests. The Number of Elements was 56,888 and the Safety Factor was 0.13.
+
+<img width="500" height="500" alt="IMG18" src="IMG18.jpeg">
+<img width="500" height="500" alt="IMG19" src="IMG19.jpeg">
+<img width="500" height="500" alt="IMG20" src="IMG20.jpeg">
+<img width="500" height="500" alt="IMG21" src="IMG21.jpeg">
+
+
 
 
 ## Reflection
