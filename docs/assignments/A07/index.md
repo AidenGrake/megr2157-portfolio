@@ -59,12 +59,23 @@ SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 Despite these results didn't meet the 7% convergence, I decided to my second design.
 
 ## Second Design
-For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initials values found from the tests. The Number of Elements was 54,944 and the Safety Factor was 0.088.
+For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initials values found from the tests. The Number of Elements was 57,197 and the Safety Factor was 0.088.
 
 <img width="500" height="500" alt="IMG10" src="IMG10.jpeg">
 <img width="500" height="500" alt="IMG11" src="IMG11.jpeg">
 <img width="500" height="500" alt="IMG12" src="IMG12.jpeg">
 <img width="500" height="500" alt="IMG13" src="IMG13.jpeg">
+
+Now that I have the base values for the second design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 93,432 after the second mesh.
+
+Max Stress: ((411800 - 485300) / 485300) * 100 = 15.15%
+
+Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
+
+SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
+
+<img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
+<img width="500" height="500" alt="IMG15" src="IMG15.jpeg">
 
 ## Third Design
 
