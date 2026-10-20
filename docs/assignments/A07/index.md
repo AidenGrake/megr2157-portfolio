@@ -56,7 +56,7 @@ SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 <img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
 <img width="500" height="500" alt="IMG9" src="IMG9.jpeg">
 
-Despite these results didn't meet the 7% convergence, I decided to my second design.
+Despite these results didn't meet the 7% convergence, I decided to move onto my second design.
 
 ## Second Design
 For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initials values found from the tests. The Number of Elements was 57,197 and the Safety Factor was 0.088.
@@ -66,7 +66,7 @@ For my second design, I doubled the thickness in section B of the bracket due to
 <img width="500" height="500" alt="IMG12" src="IMG12.jpeg">
 <img width="500" height="500" alt="IMG13" src="IMG13.jpeg">
 
-Now that I have the base values for the second design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 93,432 after the second mesh.
+Now that I have the base values for the second design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 93,432 after the second mesh. In the screenshots below are my  values found from the tests.
 
 Max Stress: ((411800 - 485300) / 485300) * 100 = 15.15%
 
@@ -77,7 +77,22 @@ SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 <img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
 <img width="500" height="500" alt="IMG15" src="IMG15.jpeg">
 
+With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my  values found from the tests.
+
+Max Stress: ((485300 - 515400) / 515400) * 100 = 5.84%
+
+Max Deflection: ((0.1069 - 0.1074) / 0.1074) * 100 = 0.47%
+
+SF: ((0.075 - 0.070) / 0.070) * 100 = 7.14%
+
+<img width="500" height="500" alt="IMG16" src="IMG16.jpeg">
+<img width="500" height="500" alt="IMG17" src="IMG17.jpeg">
+
+Despite one of these results didn't meet the 7% convergence, I decided to move onto my third design.
+
 ## Third Design
+For my third design, 
+
 
 ## Reflection
 
