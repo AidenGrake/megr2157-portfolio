@@ -153,8 +153,12 @@ SF: ((1.6 - 1.6) / 1.6) * 100 = 0.00%
 
 These all were below 7% convergence, I moved onto design two.
 
-For design two, I 
+For design three, I added a .25" gap from the bottom hole to the end of the fixture while maintaining the new thickness from design two. The Number of Elements was 17,669 and a Safety Factor of 2.3. The rest of the results are displayed in the screenshots below.
 
+<img width="500" height="500" alt="IMG34" src="IMG34.jpeg">
+<img width="500" height="500" alt="IMG35" src="IMG35.jpeg">
+<img width="500" height="500" alt="IMG36" src="IMG36.jpeg">
+<img width="500" height="500" alt="IMG37" src="IMG37.jpeg">
 
 ## CAD Files
 [A7Bracket.SLDPRT](A7Bracket.SLDPRT)
