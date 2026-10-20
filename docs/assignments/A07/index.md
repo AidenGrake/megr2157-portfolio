@@ -106,6 +106,10 @@ Max Deflection: ((0.09784 - 0.09797) / 0.09797) * 100 = 0.13%
 
 SF: ((0.13 - 0.13) / 0.13) * 100 = 0.00%
 
+Now below is the table filled out with all the values completed. 
+
+<img width="500" height="500" alt="IMG22" src="IMG22.jpeg">
+
 ## Reflection
 
 ## CAD Files
