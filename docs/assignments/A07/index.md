@@ -30,7 +30,7 @@ The Number of Elements was 8847.
 <img width="500" height="500" alt="IMG4" src="IMG4.jpeg">
 <img width="500" height="500" alt="IMG5" src="IMG5.jpeg">
 
-Now that I have the base values for the initial design, I'm going to find a finer mesh and calculate the values convergence with initial values to see if they get within 7% of error. After making the mesh finer, I got my first results and compared to my initial values. The Number of Elements was 24639.
+Now that I have the base values for the initial design, I'm going to find a finer mesh and calculate the values convergence with initial values to see if they get within 7% of error. After making the mesh finer, I got my first results and compared to my initial values. The Number of Elements was 24,639.
 
 To solve for convergence you must use this equation: CONVERGENCE = ((OLD - NEW) / NEW) * 100%
 
@@ -45,7 +45,7 @@ Since these values were way off 7%, I will run a finer mesh and compare results 
 <img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
 <img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
 
-The Number of Elements for this was 54944 and the results are:
+The Number of Elements for this was 54,944 and the results are:
 
 Max Stress: ((411800 - 485300) / 485300) * 100 = 15.15%
 
@@ -59,6 +59,12 @@ SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 Despite these results didn't meet the 7% convergence, I decided to my second design.
 
 ## Second Design
+For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initials values found from the tests. The Number of Elements was 54,944 and the Safety Factor was 0.088.
+
+<img width="500" height="500" alt="IMG10" src="IMG10.jpeg">
+<img width="500" height="500" alt="IMG11" src="IMG11.jpeg">
+<img width="500" height="500" alt="IMG12" src="IMG12.jpeg">
+<img width="500" height="500" alt="IMG13" src="IMG13.jpeg">
 
 ## Third Design
 
