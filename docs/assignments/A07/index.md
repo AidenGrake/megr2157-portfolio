@@ -77,10 +77,10 @@ Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
 
 SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 
+With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my values found from the tests.
+
 <img width="500" height="500" alt="IMG16" src="IMG16.jpeg">
 <img width="500" height="500" alt="IMG17" src="IMG17.jpeg">
-
-With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my values found from the tests.
 
 Max Stress: ((485300 - 515400) / 515400) * 100 = 5.84%
 
