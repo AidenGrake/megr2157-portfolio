@@ -122,6 +122,21 @@ For my link, I did the same process as I did with my bracket. In the screenshots
 <img width="500" height="500" alt="IMG26" src="IMG26.jpeg">
 <img width="500" height="500" alt="IMG27" src="IMG27.jpeg">
 
+Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 16,245 and calculated my convergence.
+
+Max Stress: ((44610 - 44450) / 44450) * 100 = 0.36%
+
+Max Deflection: ((0.001914 - 0.001914) / 0.001914) * 100 = 0.00%
+
+SF: ((0.813 - 0.82) / 0.82) * 100 = 0.85%
+
+<img width="500" height="500" alt="IMG28" src="IMG16.jpeg">
+<img width="500" height="500" alt="IMG28" src="IMG17.jpeg">
+
+These all were below 7% convergence, but with a low Safety Factor, I moved onto design two.
+
+
+
 ## CAD Files
 [A7Bracket.SLDPRT](A7Bracket.SLDPRT)
 [A7Link.SLDPRT](A7Link.SLDPRT)
