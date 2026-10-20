@@ -45,7 +45,18 @@ Since these values were way off 7%, I will run a finer mesh and compare results 
 <img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
 <img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
 
+The Number of Elements for this was 54944 and the results are:
 
+Max Stress: ((411800 - 485300) / 485300) * 100 = 15.15%
+
+Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
+
+SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
+
+<img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
+<img width="500" height="500" alt="IMG9" src="IMG9.jpeg">
+
+Despite these results didn't meet the 7% convergence, I decided to my second design.
 
 ## Second Design
 
