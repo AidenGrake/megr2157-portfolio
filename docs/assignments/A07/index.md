@@ -77,7 +77,7 @@ SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 <img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
 <img width="500" height="500" alt="IMG15" src="IMG15.jpeg">
 
-With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my  values found from the tests.
+With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my values found from the tests.
 
 Max Stress: ((485300 - 515400) / 515400) * 100 = 5.84%
 
@@ -98,8 +98,13 @@ For my third design, I added fillets to the design. I rounded off the edges of t
 <img width="500" height="500" alt="IMG20" src="IMG20.jpeg">
 <img width="500" height="500" alt="IMG21" src="IMG21.jpeg">
 
+Now that I have the base values for the third design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 94,001 after the second mesh. In the screenshots below are my values found from the tests.
 
+Max Stress: ((284200 - 288900) / 288900) * 100 = 1.63%
 
+Max Deflection: ((0.09784 - 0.09797) / 0.09797) * 100 = 0.13%
+
+SF: ((0.13 - 0.13) / 0.13) * 100 = 0.00%
 
 ## Reflection
 
