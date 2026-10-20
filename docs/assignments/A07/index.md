@@ -32,6 +32,9 @@ The Number of Elements was 8,847.
 
 Now that I have the base values for the initial design, I'm going to find a finer mesh and calculate the values convergence with initial values to see if they get within 7% of error. After making the mesh finer, I got my first results and compared to my initial values. The Number of Elements was 24,639.
 
+<img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
+<img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
+
 To solve for convergence you must use this equation: CONVERGENCE = ((OLD - NEW) / NEW) * 100%
 
 Max Stress: ((624400 - 411800) / 411800) * 100 = 51.63%
@@ -42,8 +45,8 @@ SF: ((0.058 - 0.088) / 0.088) * 100 = 34.09%
 
 Since these values were way off 7%, I will run a finer mesh and compare results to the previous run.
 
-<img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
-<img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
+<img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
+<img width="500" height="500" alt="IMG9" src="IMG9.jpeg">
 
 The Number of Elements for this was 54,944 and the results are:
 
@@ -52,9 +55,6 @@ Max Stress: ((411800 - 485300) / 485300) * 100 = 15.15%
 Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
 
 SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
-
-<img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
-<img width="500" height="500" alt="IMG9" src="IMG9.jpeg">
 
 Despite these results didn't meet the 7% convergence, I decided to move onto my second design.
 
@@ -68,14 +68,17 @@ For my second design, I doubled the thickness in section B of the bracket due to
 
 Now that I have the base values for the second design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 93,432 after the second mesh. In the screenshots below are my  values found from the tests.
 
+<img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
+<img width="500" height="500" alt="IMG15" src="IMG15.jpeg">
+
 Max Stress: ((411800 - 485300) / 485300) * 100 = 15.15%
 
 Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
 
 SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 
-<img width="500" height="500" alt="IMG14" src="IMG14.jpeg">
-<img width="500" height="500" alt="IMG15" src="IMG15.jpeg">
+<img width="500" height="500" alt="IMG16" src="IMG16.jpeg">
+<img width="500" height="500" alt="IMG17" src="IMG17.jpeg">
 
 With two of the three values didn't meet the 7% convergence, I'm going to make the mesh finer. The Number of Elements was 176,967 after the third mesh. In the screenshots below are my values found from the tests.
 
@@ -84,9 +87,6 @@ Max Stress: ((485300 - 515400) / 515400) * 100 = 5.84%
 Max Deflection: ((0.1069 - 0.1074) / 0.1074) * 100 = 0.47%
 
 SF: ((0.075 - 0.070) / 0.070) * 100 = 7.14%
-
-<img width="500" height="500" alt="IMG16" src="IMG16.jpeg">
-<img width="500" height="500" alt="IMG17" src="IMG17.jpeg">
 
 Despite one of these results didn't meet the 7% convergence, I decided to move onto my third design.
 
@@ -102,14 +102,14 @@ For my third design, I added fillets to the design. I rounded off the edges of t
 
 Now that I have the base values for the third design, I can begin to try and get these values within 7% of a finer mesh. The Number of Elements was 94,001 after the second mesh. In the screenshots below are my values found from the tests.
 
+<img width="500" height="500" alt="IMG24" src="IMG24.jpeg">
+<img width="500" height="500" alt="IMG25" src="IMG25.jpeg">
+
 Max Stress: ((284200 - 288900) / 288900) * 100 = 1.63%
 
 Max Deflection: ((0.09784 - 0.09797) / 0.09797) * 100 = 0.13%
 
 SF: ((0.13 - 0.13) / 0.13) * 100 = 0.00%
-
-<img width="500" height="500" alt="IMG24" src="IMG24.jpeg">
-<img width="500" height="500" alt="IMG25" src="IMG25.jpeg">
 
 Now below is the table filled out with all the correct values. 
 
@@ -129,14 +129,14 @@ For my link, I did the same process as I did with my bracket. In the screenshots
 
 Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 16,245 and calculated my convergence.
 
+<img width="500" height="500" alt="IMG32" src="IMG32.jpeg">
+<img width="500" height="500" alt="IMG33" src="IMG33.jpeg">
+
 Max Stress: ((44610 - 44450) / 44450) * 100 = 0.36%
 
 Max Deflection: ((0.001914 - 0.001914) / 0.001914) * 100 = 0.00%
 
 SF: ((0.813 - 0.82) / 0.82) * 100 = 0.85%
-
-<img width="500" height="500" alt="IMG32" src="IMG32.jpeg">
-<img width="500" height="500" alt="IMG33" src="IMG33.jpeg">
 
 These all were below 7% convergence, but with a low Safety Factor, I moved onto design two.
 
