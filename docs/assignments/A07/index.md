@@ -30,6 +30,20 @@ The Number of Elements was 8847.
 <img width="500" height="500" alt="IMG4" src="IMG4.jpeg">
 <img width="500" height="500" alt="IMG5" src="IMG5.jpeg">
 
+Now that I have the base values for the initial design, I'm going to find a finer mesh and calculate the values convergence with initial values to see if they get within 7% of error. After making the mesh finer, I got my first results and compared to my initial values. The Number of Elements was 24639.
+
+To solve for convergence you must use this equation: CONVERGENCE = ((OLD - NEW) / NEW) * 100%
+
+Max Stress: ((624400 - 411800) / 411800) * 100 = 51.63%
+
+Max Deflection: ((0.2388 - 0.1066) / 0.1066) * 100 = 124.02%
+
+SF: ((0.058 - 0.088) / 0.088) * 100 = 34.09%
+
+Since these values were way off 7%, I will run a finer mesh and compare results to the previous run.
+
+<img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
+<img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
 
 
 
