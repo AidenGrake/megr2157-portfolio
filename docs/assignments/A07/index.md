@@ -56,7 +56,7 @@ Max Deflection: ((0.1066 - 0.1069) / 0.1069) * 100 = 0.28%
 
 SF: ((0.088 - 0.075) / 0.075) * 100 = 17.33%
 
-Despite these results not meeting the 7% convergence, I decided to move onto my second design.
+Despite two out of three results not meeting the 7% convergence, I decided to move onto my second design.
 
 ## Second Design
 For my second design, I doubled the thickness in section B of the bracket due to the fact that the majority of the stress is located there. The thickness was originally 0.0876in and now the new thickness is 0.1752in. In the screenshots below are my initial values found from the tests. The Number of Elements was 57,197 and the Safety Factor was 0.088.
