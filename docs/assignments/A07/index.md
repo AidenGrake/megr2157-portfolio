@@ -111,7 +111,7 @@ Max Deflection: ((0.09784 - 0.09797) / 0.09797) * 100 = 0.13%
 
 SF: ((0.13 - 0.13) / 0.13) * 100 = 0.00%
 
-Now below is the table filled out with all the correct values. 
+With all these values being within 7%, I filled out the table as seen below.
 
 <img width="500" height="500" alt="IMG26" src="IMG26.jpeg">
 
@@ -173,7 +173,7 @@ Max Deflection: ((0.0006083 - 0.0006083) / 0.0006083) * 100 = 0.00%
 
 SF: ((2.3 - 2.3) / 2.3) * 100 = 0.00%
 
-Now below is the table filled out with all the correct values. 
+With all these values being within 7%, I filled out the table as seen below.
 
 <img width="500" height="500" alt="IMG43" src="IMG43.jpeg">
 
