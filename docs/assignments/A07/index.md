@@ -111,7 +111,7 @@ Now below is the table filled out with all the values completed.
 <img width="500" height="500" alt="IMG22" src="IMG22.jpeg">
 
 ## Reflection
-Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement which means the design can only improve and become even more 
+Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement means I'm on the right track and understanding the process of engineering design. I believe if I made the bracket thickness larger I could improve my Safety Factor and bring down the stress. This assignment has taught me a lot about FEA and the processes to improve and optimize part design. This project helped me think of solutions in order to improve my part while still maintaining the basic shape and keeping the critical components the same. This project also helped me learn about model convergence and how an impact mesh refinement has on the FEA. This assignment took me 5 hours to complete.
 
 ## 2157
 
