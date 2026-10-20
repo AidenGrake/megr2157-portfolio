@@ -146,9 +146,11 @@ For design two, I doubled the thickness of the link. The Number of Elements is 1
 <img width="500" height="500" alt="IMG35" src="IMG35.jpeg">
 <img width="500" height="500" alt="IMG36" src="IMG36.jpeg">
 <img width="500" height="500" alt="IMG37" src="IMG37.jpeg">
-<img width="500" height="500" alt="IMG38" src="IMG38.jpeg">
 
 Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 34,631 and calculated my convergence.
+
+<img width="500" height="500" alt="IMG38" src="IMG38.jpeg">
+<img width="500" height="500" alt="IMG39" src="IMG39.jpeg">
 
 Max Stress: ((22400 - 22300) / 22300) * 100 = 0.4464%
 
@@ -156,16 +158,19 @@ Max Deflection: ((0.0009598 - 0.0009596) / 0.0009596) * 100 = 0.02084%
 
 SF: ((1.6 - 1.6) / 1.6) * 100 = 0.00%
 
-These all were below 7% convergence, I moved onto design two.
+These all were below 7% convergence, I moved onto design three.
 
 For design three, I added a .25" gap from the bottom hole to the end of the fixture while maintaining the new thickness from design two. I chose this as it only added 0.1lbs. The Number of Elements was 17,669 and a Safety Factor of 2.3. The rest of the results are displayed in the screenshots below.
 
-<img width="500" height="500" alt="IMG39" src="IMG39.jpeg">
 <img width="500" height="500" alt="IMG40" src="IMG40.jpeg">
 <img width="500" height="500" alt="IMG41" src="IMG41.jpeg">
 <img width="500" height="500" alt="IMG42" src="IMG42.jpeg">
+<img width="500" height="500" alt="IMG43" src="IMG43.jpeg">
 
 Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 37,749 and calculated my convergence.
+
+<img width="500" height="500" alt="IMG44" src="IMG44.jpeg">
+<img width="500" height="500" alt="IMG45" src="IMG45.jpeg">
 
 Max Stress: ((15750 - 15730) / 15750) * 100 = 0.1270%
 
@@ -175,7 +180,7 @@ SF: ((2.3 - 2.3) / 2.3) * 100 = 0.00%
 
 With all these values being within 7%, I filled out the table as seen below.
 
-<img width="500" height="500" alt="IMG43" src="IMG43.jpeg">
+<img width="500" height="500" alt="IMG46" src="IMG46.jpeg">
 
 ## CAD Files
 [A7Bracket.SLDPRT](A7Bracket.SLDPRT)
