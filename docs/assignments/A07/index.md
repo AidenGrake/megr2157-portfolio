@@ -111,6 +111,7 @@ Now below is the table filled out with all the values completed.
 <img width="500" height="500" alt="IMG22" src="IMG22.jpeg">
 
 ## Reflection
+Although my Safety Factor was very low and the stress is more than desired, looking over each design and seeing the improvement which means the design can only improve and become even more 
 
 ## 2157
 
