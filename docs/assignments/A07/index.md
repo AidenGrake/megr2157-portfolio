@@ -135,6 +135,25 @@ SF: ((0.813 - 0.82) / 0.82) * 100 = 0.85%
 
 These all were below 7% convergence, but with a low Safety Factor, I moved onto design two.
 
+For design two, I doubled the thickness of the link. The Number of Elements is 16,083 and the screenshots below display my results. 
+
+<img width="500" height="500" alt="IMG29" src="IMG29.jpeg">
+<img width="500" height="500" alt="IMG30" src="IMG30.jpeg">
+<img width="500" height="500" alt="IMG31" src="IMG31.jpeg">
+<img width="500" height="500" alt="IMG32" src="IMG32.jpeg">
+<img width="500" height="500" alt="IMG33" src="IMG33.jpeg">
+
+Now I made the mesh finer and the results are displayed in the screenshots below. I adjusted the Number of Elements to 34,631 and calculated my convergence.
+
+Max Stress: ((22400 - 22300) / 22300) * 100 = 0.4464%
+
+Max Deflection: ((0.0009598 - 0.0009596) / 0.0009596) * 100 = 0.02084%
+
+SF: ((1.6 - 1.6) / 1.6) * 100 = 0.00%
+
+These all were below 7% convergence, I moved onto design two.
+
+For design two, I 
 
 
 ## CAD Files
