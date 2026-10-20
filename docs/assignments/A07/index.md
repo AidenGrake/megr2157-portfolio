@@ -18,6 +18,14 @@ For the initial CAD setup for the FEA, I defined both the fixture of where beam 
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
 
 ## First Design
+My first design is the model I initially created for assignment #5 and #6 and the mesh will be the SolidWorks base mesh. From here, I can make the mesh finer and then find the convergence to these initial values as I continue throughout my design. 
+
+The Max Stress after the simulation was 624,400 psi in section B of the Bracket.
+The Max deflection after the simulation was 0.2388 in at the end of part A of the Bracket.
+The Mass after the simulation was 0.39 lb.
+The Safety Factor after the simulation was 0.058.
+The Number of Elements was 8847.
+
 
 ## Second Design
 
