@@ -11,10 +11,15 @@
 ## Shaft Design
 
 
+<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
+
 ## Journal Bearing Design
 
+<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
 
 ## Gearbox Housing Sketch & CA
+
+<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
 
 ## Lessons Learned
 
