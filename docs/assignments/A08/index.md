@@ -10,16 +10,27 @@
 
 ## Shaft Design
 
-
-<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
+<img width="500" height="500" alt="IMG10" src="IMG10.jpeg">
 
 ## Journal Bearing Design
 
-<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
+<img width="500" height="500" alt="IMG11" src="IMG11.jpeg">
 
 ## Gearbox Housing Sketch & CA
 
+<img width="500" height="500" alt="IMG12" src="IMG12.jpeg">
+
 <img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
+<img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
+<img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
+<img width="500" height="500" alt="IMG3" src="IMG3.jpeg">
+<img width="500" height="500" alt="IMG4" src="IMG4.jpeg">
+<img width="500" height="500" alt="IMG5" src="IMG5.jpeg">
+<img width="500" height="500" alt="IMG6" src="IMG6.jpeg">
+<img width="500" height="500" alt="IMG7" src="IMG7.jpeg">
+<img width="500" height="500" alt="IMG8" src="IMG8.jpeg">
+<img width="500" height="500" alt="IMG9" src="IMG9.jpeg">
+
 
 ## Lessons Learned
 
