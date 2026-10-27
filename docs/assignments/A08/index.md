@@ -41,6 +41,9 @@ With one half of the housing complete, I made a copy and replaced the holes with
 
 
 ## Lessons Learned
+I learned a lot from this assignment. My first lesson was installing the McMaster-Carr plugin and learning how to import their parts into assemblies. Also learning how to navigate McMaster-Carr and learn to find the correct components, and how to determine which ones were the correct fit was another learning curve I experienced. I also learned a lot about gears in this assignment, as before I have never really worked with gears before. This assignment took me 7 hours to complete.
 
 ## CAD & 2157
+I created six drawings of my two shafts, two gearbox housings, and two plain bearings and assembly and imported into the zip file below with my CAD of the assembly as well. I made sure my drawings followed ASME Y14.5 standards as well as third angle projection.
+
 [A8Gearbox.zip](A8Gearbox.zip)
