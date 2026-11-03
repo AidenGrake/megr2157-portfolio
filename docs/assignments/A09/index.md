@@ -11,9 +11,11 @@ For this assignment, we we're tasked to design a pulley system to transfer power
 
 ## Belt and Minimum Diameter
 
+<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
 
 ## Journal Bearing and Frame Design
 
+<img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
 
 ## Lessons Learned
 
