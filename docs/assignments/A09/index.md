@@ -10,14 +10,14 @@ For this assignment, we we're tasked to design a pulley system to transfer power
 - Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 MPa (471 psi) at 20% strain, based on: Wanga, Chena, Wua, Zhangb, Suna, “Strain-induced Structural and Dynamic Changes in Segmented Polyurethane Elastomers.”
 
 ## Belt and Minimum Diameter
-I started off with the belt design. In order to do this, I started off listing my known and unknowns and then calculated my forces on the belt. After solving my forces, I then solved my belt diameter and area. Finally I solved for the circumference and length. 
+I started off with the belt design. In order to do this, I started off listing my known and unknowns and drew out a FBD. Then I calculated my forces on the belt. After solving my forces, I then solved my belt diameter and area. Finally I solved for the circumference and length. 
 
 Once the belt design was calculated, I then determined the minimum diameter of the shaft given the maximum stress allowance for the material of the shaft which is 1060 hardened steel. I algebraically solved for power then plugged it into the diameter equation. In the image below are my calculations.
 
 <img width="250" height="500" alt="IMG0" src="IMG0.jpeg">
 
 ## Journal Bearing and Frame Design
-Following these calculations, I then moved onto my journal bearing design. 
+Following these calculations, I then moved onto my journal bearing design. I started off with the same strategy as before, with listing my knowns and unknowns first and then draw a FBD. I solved my force and area. Then I solved for pressure, linear velocity and the PV rating.
 
 <img width="250" height="500" alt="IMG1" src="IMG1.jpeg">
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
