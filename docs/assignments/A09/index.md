@@ -17,7 +17,9 @@ Once the belt design was calculated, I then determined the minimum diameter of t
 <img width="250" height="500" alt="IMG0" src="IMG0.jpeg">
 
 ## Journal Bearing and Frame Design
-Following these calculations, I then moved onto my journal bearing design. I started off with the same strategy as before, with listing my knowns and unknowns first and then draw a FBD. I solved my force and area. Then I solved for pressure, linear velocity and the PV rating. Finally, using the PV rating I went to Table 4 on page 2440 in the Machinery’s Handbook to determine a material. 
+Following these calculations, I then moved onto my journal bearing design. I started off with the same strategy as before, with listing my knowns and unknowns first and then draw a FBD. I solved my force and area. Then I solved for pressure, linear velocity and the PV rating. Finally, using the PV rating I went to Table 4 on page 2440 in the Machinery’s Handbook to determine a material.
+
+With the material and calculations now determined, it was time to design a frame. I started off with sketching out a design. This as well as all the calculations and material selection can be found in the images belwo.
 
 <img width="250" height="500" alt="IMG1" src="IMG1.jpeg">
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
