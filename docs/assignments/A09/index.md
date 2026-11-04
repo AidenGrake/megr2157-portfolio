@@ -14,11 +14,11 @@ I started off with the belt design. In order to do this, I started off listing m
 
 Once the belt design was calculated, I then determined the minimum diameter of the shaft given the maximum stress allowance for the material of the shaft which is 1060 hardened steel. I algebraically solved for power then plugged it into the diameter equation. In the image below are my calculations.
 
-<img width="500" height="500" alt="IMG0" src="IMG0.jpeg">
+<img width="250" height="500" alt="IMG0" src="IMG0.jpeg">
 
 ## Journal Bearing and Frame Design
 
-<img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
+<img width="250" height="500" alt="IMG1" src="IMG1.jpeg">
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
 
 ## Lessons Learned
