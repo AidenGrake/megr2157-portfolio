@@ -18,6 +18,7 @@ Once the belt design was calculated, I then determined the minimum diameter of t
 
 ## Journal Bearing and Frame Design
 
+
 <img width="250" height="500" alt="IMG1" src="IMG1.jpeg">
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
 
