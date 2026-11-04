@@ -16,6 +16,7 @@ For this assignment, we we're tasked to design a pulley system to transfer power
 ## Journal Bearing and Frame Design
 
 <img width="500" height="500" alt="IMG1" src="IMG1.jpeg">
+<img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
 
 ## Lessons Learned
 
