@@ -24,5 +24,7 @@ With the material and calculations now determined, it was time to design a frame
 <img width="250" height="500" alt="IMG1" src="IMG1.jpeg">
 <img width="500" height="500" alt="IMG2" src="IMG2.jpeg">
 
+For my engineering analysis, 
+
 ## Lessons Learned
 
