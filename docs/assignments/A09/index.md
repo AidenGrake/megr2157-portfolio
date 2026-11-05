@@ -2,6 +2,7 @@
 
 ## Objective
 For this assignment, we we're tasked to design a pulley system to transfer power between two parallel axes separated by a center distance of 4–6 inches. As well as, 
+
 - Pulley Diameter: Both pulleys shall have a diameter of 3 inches.
 - Rotational Speed: Select an operating speed between 1000–2000 rpm.
 - Belt Tension (Static): Select a belt tension between 4–6 lbf under stationary conditions.
