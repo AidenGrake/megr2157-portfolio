@@ -1,4 +1,4 @@
-2wqa# A9 – Pulleys
+# A9 – Pulley
 
 ## Objective
 For this assignment, we we're tasked to design a pulley system to transfer power between two parallel axes separated by a center distance of 4–6 inches. As well as, 
