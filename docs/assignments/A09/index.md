@@ -29,4 +29,4 @@ For my engineering analysis, I chose 6061-T6 Aluminum as my material as it meets
 <img width="250" height="500" alt="IMG3" src="IMG3.jpeg">
 
 ## Lessons Learned
-This assignment gave me a better understanding of pulley systems. I learned how belt tension, friction, and how pulley systems influence the forces that are transmitted through a system. I also learned how the torque affects shaft diameter and how material yield strength influences shaft design.
+This assignment gave me a better understanding of pulley systems. I learned how belt tension, friction, and how pulley systems influence the forces that are transmitted through a system. I also learned how the torque affects shaft diameter and how material yield strength influences shaft design. In total, this assignment took me 4 hours to complete.
