@@ -22,6 +22,7 @@ Following these calculations, I then moved onto my journal bearing design. I sta
 With the material and calculations now determined, it was time to design a frame. I started off with sketching out a design. This, as well as all the calculations and material selection, can be found in the images below.
 
 <img width="250" height="500" alt="IMG1" src="IMG1.jpeg">
+
 <img width="250" height="500" alt="IMG2" src="IMG2.jpeg">
 
 For my engineering analysis, I chose 6061-T6 Aluminum as my material as it meets the minimum safety factor of 3. I calculated my net area, net stress and net safety factor. In the image below I showed my calculated values.
