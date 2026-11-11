@@ -26,7 +26,9 @@ I solved for the minimum length of the crosshead by modeling it as a beam fixed 
 ## Decide - Wyatt & Aiden
 ### Frame
 We decided to make our frame look the same as the example in the assignment and this is how our BOM turned out.
+
 ![BOM1](BOM1.png)
+
 LINKS:
 https://www.mcmaster.com/6575N25-6575N183/
 
