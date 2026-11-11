@@ -92,7 +92,7 @@ I created the drawing of the original crosshead design following the ASME Y14.5 
 ![A10-Crosshead](A10-Crosshead.jpeg)
 
 ## Communicate and Lessons Learned
-After my partner had finished working on the CAD model I realized I made a mistake when calculating the nut size from the thread bending stress so our lead screw is much larger than what is calculated for but should still work if we have a strong enough motor. I learned that things like mechanical components are the most susceptible to forces when analyzing strength. 
+After my partner had finished working on the CAD model I realized I made a mistake when calculating the nut size from the thread bending stress so our lead screw is much larger than what is calculated for but should still work if we have a strong enough motor. I learned that things like mechanical components are the most susceptible to forces when analyzing strength. In total this assignment took about 6 hours to complete. 
 
 ![mistakes](mistakes.jpeg)
 
