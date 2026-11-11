@@ -62,7 +62,7 @@ When designing the crosshead we thought it would be easiest to make it a straigh
 ### FEA - Aiden
 
 ### Drawing - Aiden
-
+![A10-Crosshead](A10-Crosshead.jpeg)
 
 ## Communicate and Lessons Learned
 After my partner had finished working on the CAD model I realized I made a mistake when calculating the nut size from the thread bending stress so our lead screw is much larger than what is calculated for but should still work if we have a strong enough motor. I learned that things like mechanical components are the most susceptible to forces when analyzing strength. 
