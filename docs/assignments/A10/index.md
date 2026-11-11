@@ -60,7 +60,7 @@ After the parametric equations were set in the screenshots below is the process 
 
 ![crosshead6](crosshead6.png)
 
-Once the crosshead was complete it was time to assemble the frame. I took advantage of the McMaster Carr add-on in Solidworks to easily insert my components into the assembly.
+Once the crosshead was complete it was time to assemble the frame. I took advantage of the McMaster Carr add-on in Solidworks to easily insert my components into the assembly. I used all of the parts that we decided in the design phase of this project.
 
 ![frame](frame.png)
 
