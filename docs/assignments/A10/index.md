@@ -7,11 +7,11 @@ The objective of this assignment is to design a desktop sized tensile tester tha
 ### Lead Screw - Wyatt
 We started the process by determining the minimum necessary diameter using the axial stress equation. The force is 224.81, the safety factor is 3, and I found the properties of the lead screw by asking AI "common lead screw materials" and then asked for "properties of AISI 1018" the yield and shear strength were 53700 psi and 31005 psi respectively." After algebraically solving for d min and plugging the values in I found the minimum diameter to be .1265 inches.
 
-![leadscrew](leadscrew.jpeg)
+<img width="500" height="500" alt="leadscrew" src="leadscrew.jpeg">
 
 I decided to use the 3/8" screw for extra safety. Next was to solve for the range of rotational speeds of the lead screw which is equal to linear speed divided by the pitch, which means as pitch increases driving torque also increases so the smallest pitch possible is the one we used (.05 in/rev). If the pitch is equal to .05 the range of rotational speeds would be .7874-39.38 RPM. Once I had the pitch I could solve for the max torque the screw could support and the driving torque. Since the driving torque was less than the max torque the 3/8-20 screw would work.
 
-![screwtorque](screwtorque.jpeg)
+<img width="500" height="500" alt="screwtorque" src="screwtorque.jpeg">
 
 ### Flange Nut - Wyatt
 The knowns for the Flange nuts are the material is bronze the SF is equal to 3 the force is 1 kN and the diameter and pitch come from the previous problem 3/8" diameter and .05 in/revolution pitch. I found the yield strength by asking AI "properties of bronze 673"  and it was equal to 40000 psi. To solve for the correct nut I used the thread bending stress equation and algebraically solved for the minimum number of engaged threads to keep the threads from bending with the 3/8- 20 lead screw there needed to be 1.72 threads engaged which means the nut needed to be at least .1 inches long. 
