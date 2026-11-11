@@ -39,7 +39,7 @@ https://www.mcmaster.com/93410A630/
 https://www.mcmaster.com/95120A143/
 
 ### Crosshead - Wyatt
-When designing the crosshead we thought it would be easiest to make it a straight bar with holes for the leadscrew to fit in and small circular slots for the flange nuts to slide into. 
+When designing the crosshead we thought it would be easiest to make it a straight bar with holes for the leadscrew to fit in and small circular slots for the flange nuts to slide into. We chose ATSM A36 as the material for its stiffness.
 
 ![crossheaddrawing](crossheaddrawing.jpeg)
 
@@ -65,6 +65,24 @@ Once the crosshead was complete it was time to assemble the frame. I took advant
 ![frame](frame.png)
 
 ### FEA - Aiden
+For the FEA I started off with added my fixed geometry and created a split line to add my 2kN force in the center of the crosshead. In the screenshot below is the FEA setup.
+
+![feasetup](feasetup.png)
+
+Once it was setup, I ran the FEA of my original design and afterword created two more meshes to get the FEA run more accurate. In the screenshots below are the original run.
+
+![mesh1s](mesh1s.png)
+![mesh1d](mesh1d.png)
+![mesh1sf](mesh1sf.png)
+
+
+Seeing how all the parameters were met, I made a cutout to the sides to reduce the weight. After editing the design, I then ran three FEAs to get an accurate results. In the screenshots below are the original run and the results from both tests. By the last run, all 3 tests convergence were within 7%.
+
+![mesh2s](mesh1s.png)
+![mesh2d](mesh1d.png)
+![mesh2sf](mesh1sf.png)
+
+![fearesults](fearesults.png)
 
 ### Drawing - Aiden
 I created the drawing of the original crosshead design following the ASME Y14.5 standards and added tolerance to critical components.
