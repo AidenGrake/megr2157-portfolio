@@ -80,9 +80,9 @@ Once it was setup, I ran the FEA of my original design and afterword created two
 
 Seeing how all the parameters were met, I made a cutout to the sides to reduce the weight. After editing the design, I then ran three FEAs to get an accurate results. In the screenshots below are the original run and the results from both tests. By the last run, all 3 tests convergence were within 7%.
 
-![mesh2s](mesh1s.png)
-![mesh2d](mesh1d.png)
-![mesh2sf](mesh1sf.png)
+![mesh2s](mesh2s.png)
+![mesh2d](mesh2d.png)
+![mesh2sf](mesh2sf.png)
 
 ![fearesults](fearesults.png)
 
