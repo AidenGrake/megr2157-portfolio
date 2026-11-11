@@ -19,7 +19,7 @@ The knowns for the Flange nuts are the material is bronze the SF is equal to 3 t
 ![thread](thread.jpeg)
 
 ### Crosshead - Wyatt
-I solved for the minimum length of the crosshead by modeling it as a beam fixed at both ends with a load in the center. The center load is 2kN the cross sectional area of the beam is a 3 in square, the max deflection is equal to .00394 in, and the material is aluminum which has a yield strength of 40000 psi and a modulus of elasticity equal to 10000000 psi. I was able to solve for the max length that could support the load without yielding or deflecting too much which was 1067.6 in and 29.33
+I solved for the minimum length of the crosshead by modeling it as a beam fixed at both ends with a load in the center. The center load is 2kN the cross sectional area of the beam is a 3 in square, the max deflection is equal to .00394 in, and the material is aluminum which has a yield strength of 40000 psi and a modulus of elasticity equal to 10000000 psi. I was able to solve for the max length that could support the load without yielding or deflecting too much which was 1067.6 in and 29.33.
 
 ![crosshead](crosshead.jpeg)
 
@@ -27,7 +27,7 @@ I solved for the minimum length of the crosshead by modeling it as a beam fixed 
 ### Frame
 We decided to make our frame look the same as the example in the assignment and this is how our BOM turned out.
 ![BOM1](BOM1.png)
-
+LINKS:
 https://www.mcmaster.com/6575N25-6575N183/
 
 https://www.mcmaster.com/6575N25-6575N202/
@@ -44,8 +44,11 @@ When designing the crosshead we thought it would be easiest to make it a straigh
 ![crossheaddrawing](crossheaddrawing.jpeg)
 
 ### CAD - Aiden
+To start off the CAD I began my added my parameters to my crosshead. I added counterbores for a cleaner for the flanges to seat into. I also chose a length that was less than the maximum length in order to keep the desktop size.
 
 ![crosshead](crosshead.png)
+
+After the parametric equations were set in the screenshots below is the process I used to create the design.
 
 ![crosshead1](crosshead1.png)
 
@@ -57,11 +60,15 @@ When designing the crosshead we thought it would be easiest to make it a straigh
 
 ![crosshead6](crosshead6.png)
 
+Once the crosshead was complete it was time to assemble the frame. I took advantage of the McMaster Carr add-on in Solidworks to easily insert my components into the assembly.
+
 ![frame](frame.png)
 
 ### FEA - Aiden
 
 ### Drawing - Aiden
+I created the drawing of the original crosshead design following the ASME Y14.5 standards and added tolerance to critical components.
+
 ![A10-Crosshead](A10-Crosshead.jpeg)
 
 ## Communicate and Lessons Learned
