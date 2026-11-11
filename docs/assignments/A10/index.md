@@ -1,7 +1,7 @@
 # A10 – Lead Screw Translating System
 
 ## Objective
-The objective of this assignment is to design a desktop sized tensile tester that can support a 2 kN load, and is driven by a lead screw moving between 1-50mm/min with a safety factor of 3
+The objective of this assignment is to design a desktop sized tensile tester that can support a 2 kN load, and is driven by a lead screw moving between 1-50mm/min with a safety factor of 4.
 
 ## Analyze
 ### Lead Screw - Wyatt
