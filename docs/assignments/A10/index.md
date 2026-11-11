@@ -45,6 +45,20 @@ When designing the crosshead we thought it would be easiest to make it a straigh
 
 ### CAD - Aiden
 
+![crosshead](crosshead.png)
+
+![crosshead1](crosshead1.png)
+
+![crosshead2](crosshead2.png)
+
+![crosshead3](crosshead3.png)
+
+![crosshead4](crosshead4.png)
+
+![crosshead6](crosshead6.png)
+
+![frame](frame.png)
+
 ### FEA - Aiden
 
 ### Drawing - Aiden
