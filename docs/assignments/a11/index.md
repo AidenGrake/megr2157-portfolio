@@ -23,6 +23,12 @@ Top Frame FEA
 
 To prepare the FEA for the top frame, everything else was isolated from the assembly except the top frame and motor mounts. Fixed geometry was applied at both ends to simulate being attached to the vertical beams. 6061-T6 was chosen to be the aluminum of the extrusions. Finally, a 1kN load and the calculated 0.2628 N*m were applied to both screw holes. After the first run, I refined the mesh and calculated convergence. In the images below, are initial FEA results, as well as, the calculated convergence from all three.
 
+![feaframe1](feaframe1.png)
+![feaframe2](feaframe2.png)
+![feaframe3](feaframe3.png)
+![feaframe4](feaframe4.png)
+![feaframe5](feaframe5.png)
+
 Vertical FEA
 
 To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top at the motor mounts. In the images below are the results. 
