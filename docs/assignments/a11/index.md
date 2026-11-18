@@ -13,7 +13,7 @@ After finding a datasheet detailing different SureStep High Voltage motors I loo
 
 ![Mount Math](Mount.jpeg)
 ![MotorMount1](MotorMount1.png)
-![MotorMount1](MotorMount1.png)
+![MotorMount2](MotorMount2.png)
 
 Coupler
 
