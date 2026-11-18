@@ -19,6 +19,7 @@ For the coupler I needed to determine the necessary outer diameter to support th
 ![Coupler Math](Coupler.jpeg)
 
 ## CAD
+To prepare the FEA for the top frame, everything else was isolated from the assembly except the top frame and motor mounts. Fixed geometry was applied at both ends to simulate being attached to the vertical beams. Finally, a 1kN load and the calculated 0.2628 N*m were applied to both screw holes. 
 
 ## Communicate
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
