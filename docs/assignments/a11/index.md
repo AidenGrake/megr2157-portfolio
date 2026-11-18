@@ -51,6 +51,7 @@ Floating Bearing Mount Design
 To design the floating bearing mount, is 60x60mm to fit on the aluminum extrusion with a thickness of 0.25in. For the mounting hole, I made it the diameter of the set screw which is 0.875in. There are 0.2in holes for a #10 screw. Where the bearing block and the lead screw interact there is a RC3 fit which has a tolerance of +- 0.0005 in with accordance with the handbook.
 
 ![Floating-Bearing](Floating-Bearing.png)
+![Floating-Bearing1](Floating-Bearing1.png)
 
 ![full-assembly](full-assembly.png)
 
