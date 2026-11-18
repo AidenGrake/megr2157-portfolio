@@ -52,6 +52,9 @@ To design the floating bearing mount, is 60x60mm to fit on the aluminum extrusio
 
 ![Floating-Bearing](Floating-Bearing.png)
 
+![full-assembly](full-assembly.png)
+
+
 ## Links
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
 
