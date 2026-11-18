@@ -9,9 +9,11 @@ The first part of the assignment is to select a motor than can support the drivi
 ![Motor Math](Motor.jpeg)
 ![Motor Graph](MotorGraph.png)
 
-After finding a datasheet detailing different SureStep High Voltage motors I looked for a graph that would fit these specifications. I tried to find one with a torque speed curve that intersected 37.22 oz-in and 11.81 rps. I found the STP-MTRAC-23044 met my requirements for driving torque and max speed. I then looked to make sure the torque produced at the minimum rps would be bellow the max allowable torque, 16313 oz-in, which it was.
+After finding a datasheet detailing different SureStep High Voltage motors I looked for a graph that would fit these specifications. I tried to find one with a torque speed curve that intersected 37.22 oz-in and 11.81 rps. I found the STP-MTRAC-23044 met my requirements for driving torque and max speed. I then looked to make sure the torque produced at the minimum rps would be bellow the max allowable torque, 16313 oz-in, which it was. For the CAD, the thickness was 0.25in and made a cutout for the 1.50in circle on the motor and made the depth the thickness it is on the motor
 
 ![Mount Math](Mount.jpeg)
+![MotorMount1](MotorMount1.png)
+![MotorMount1](MotorMount1.png)
 
 Coupler
 
