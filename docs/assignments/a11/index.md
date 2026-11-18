@@ -15,7 +15,7 @@ After finding a datasheet detailing different SureStep High Voltage motors I loo
 ![MotorMount1](MotorMount1.png)
 ![MotorMount2](MotorMount2.png)
 
-<u>Coupler<u>
+Coupler
 
 For the coupler I needed to determine the necessary outer diameter to support the load in the motor and screw. I used an equation relating shear stress, torque and the bearings cross sectional area to find the outer diameter. Max stress was set equal to 250 MPa divided by my safety factor of 4 cause that is a standard value for steel, The same torque as before was used, and the inner diameter equals the lead screw diameter 7/8 inches. After solving for outer diameter I found it needed to have a total diameter of 2.06 inches. Then, they were inserted into the assembly.
 
@@ -35,8 +35,6 @@ To prepare the FEA for the top frame, everything else was isolated from the asse
 The stress is very large than expected, in the image below is the point where the stress is concentrated the most. In order to make this smaller, we could've used a larger aluminum extrusion to make the stress concentraion less.
 
 ![feaframe4](feaframe4.png)
-
-
 
 Vertical FEA
 
