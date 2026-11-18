@@ -23,7 +23,11 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 ## Communicate
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
+
 [Motor Specs](https://cdn.automationdirect.com/static/specs/surestepACmotors.pdf)
+
 [Motor Drawing](https://cdn.automationdirect.com/static/drawings/STP-MTRAC-23044.pdf)
+
 [Set Screw Coupler Buy](https://www.mcmaster.com/6412K44/)
+
 [Top Frame Corner Connectors](https://www.automationdirect.com/adc/shopping/catalog/structural_frames_-z-_rails/brackets_for_t-slotted_rails/151124-10)
