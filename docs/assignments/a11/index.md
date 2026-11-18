@@ -36,7 +36,7 @@ The stress is very large than expected, in the image below is the point where th
 
 Vertical FEA
 
-To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top at the motor mounts. In the images below are the results. 
+To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top at the motor mounts. In the images below are the results.
 
 ![feavertical1](feavertical1.png)
 ![feavertical2](feavertical2.png)
