@@ -27,6 +27,10 @@ Vertical FEA
 
 To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top at the motor mounts. In the images below are the results. 
 
+Floating Bearing Mount Design
+
+To design the floating bearing mount, is 60x60mm to fit on the aluminum extrusion with a thickness of 0.25in. For the mounting hole, I made it the diameter of the set screw which is 0.875in. There is a 0.2in holes for a #10 screw. Where the bearing block and the lead screw interact there is a RC3 fit which has a tolerance of +- 0.0005 in with accordance with the handbook.
+
 ## Communicate
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
 
