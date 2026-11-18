@@ -18,8 +18,7 @@ For the coupler I needed to determine the necessary outer diameter to support th
 
 ![Coupler Math](Coupler.jpeg)
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## CAD
 
 ## Communicate
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
