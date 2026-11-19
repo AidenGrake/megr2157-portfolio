@@ -92,3 +92,11 @@ During this assignment our group learned learned about the importance of focusin
 [Set Screw Coupler Buy](https://www.mcmaster.com/6412K44/)
 
 [Top Frame Corner Connectors](https://www.automationdirect.com/adc/shopping/catalog/structural_frames_-z-_rails/brackets_for_t-slotted_rails/151124-10)
+
+## Drawings
+All the drawings follow the ASME Y14.5 standards.
+
+![MotorMountDraw](MotorMountDraw.png)
+![BearingMountDrawing](BearingMountDrawing.png)
+![CrossheadDraw](CrossheadDraw.png)
+![A11Draw](A11Draw.png)
