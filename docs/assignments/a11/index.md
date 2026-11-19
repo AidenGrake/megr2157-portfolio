@@ -96,7 +96,7 @@ During this assignment, our group learned about the importance of focusing on sm
 
 [BOM](A11BOM.xlsx)
 
-[A11.zip](A11.zip)
+[A11 CAD and Drawings](https://drive.google.com/file/d/11uHAHFEqwJXb86kqvsGnqs_MW-SBbayR/view?usp=sharing))
 
 ## Drawings
 All the drawings follow the ASME Y14.5 standards.
