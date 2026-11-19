@@ -39,7 +39,7 @@ To prepare the FEA for the top frame, everything else was isolated from the asse
 ![feaframe3](feaframe3.png)
 ![feaframe5](feaframe5.png)
 
-The stress is way larger than expected, in the image below is the point where the stress is concentrated the most. In order to make this smaller, we could've used a larger aluminum extrusion to make the stress concentraion less.
+The stress is way larger than expected, in the image below is the point where the stress is concentrated the most. In order to make this smaller, we could've used a larger aluminum extrusion to make the stress concentration less.
 
 ![feaframe4](feaframe4.png)
 
