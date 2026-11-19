@@ -40,6 +40,8 @@ For the bracket, I drew a sketch modeling the twisting caused by the motor torqu
 
 To prepare the FEA for the top frame, everything else was isolated from the assembly except the top frame and motor mounts. Fixed geometry was applied at both ends to simulate being attached to the vertical beams. 6061-T6 was chosen to be the aluminum of the extrusions. Finally, a 1kN load and the calculated 0.2628 N*m were applied to both screw holes. After the first run, I refined the mesh and calculated convergence. In the images below, there are initial FEA results which display the max von Mises, vertical deflection at the grip line and factor of safety. As well as, the calculated convergence from all three.
 
+![feaframegeo](feaframegeo.png)
+![feaframeforce](feaframeforce.png)
 ![feaframe1](feaframe1.png)
 ![feaframe2](feaframe2.png)
 ![feaframe3](feaframe3.png)
@@ -53,6 +55,7 @@ The stress is way larger than expected, in the image below is the point where th
 
 To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top of the motor mounts. In the images below are the results, which display the max von Mises, vertical deflection at the grip line and factor of safety.
 
+![feaverticalforce](feaverticalforce.png)
 ![feavertical1](feavertical1.png)
 ![feavertical2](feavertical2.png)
 ![feavertical3](feavertical3.png)
