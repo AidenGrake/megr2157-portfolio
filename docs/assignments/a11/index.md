@@ -93,6 +93,8 @@ During this assignment our group learned learned about the importance of focusin
 
 [Top Frame Corner Connectors](https://www.automationdirect.com/adc/shopping/catalog/structural_frames_-z-_rails/brackets_for_t-slotted_rails/151124-10)
 
+[BOM](A11BOM.xlsx)
+
 ## Drawings
 All the drawings follow the ASME Y14.5 standards.
 
