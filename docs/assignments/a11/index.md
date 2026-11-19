@@ -32,7 +32,7 @@ For the coupler I needed to determine the necessary outer diameter to support th
 ## CAD
 **Top Frame FEA**
 
-To prepare the FEA for the top frame, everything else was isolated from the assembly except the top frame and motor mounts. Fixed geometry was applied at both ends to simulate being attached to the vertical beams. 6061-T6 was chosen to be the aluminum of the extrusions. Finally, a 1kN load and the calculated 0.2628 N*m were applied to both screw holes. After the first run, I refined the mesh and calculated convergence. In the images below, are initial FEA results, as well as, the calculated convergence from all three.
+To prepare the FEA for the top frame, everything else was isolated from the assembly except the top frame and motor mounts. Fixed geometry was applied at both ends to simulate being attached to the vertical beams. 6061-T6 was chosen to be the aluminum of the extrusions. Finally, a 1kN load and the calculated 0.2628 N*m were applied to both screw holes. After the first run, I refined the mesh and calculated convergence. In the images below, are initial FEA results which display the max von Mises, vertical deflection at the grip line and factor of safety. As well as, the calculated convergence from all three.
 
 ![feaframe1](feaframe1.png)
 ![feaframe2](feaframe2.png)
@@ -45,7 +45,7 @@ The stress is way larger than expected, in the image below is the point where th
 
 **Vertical FEA**
 
-To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top at the motor mounts. In the images below are the results.
+To prepare the FEA for the vertical frame, I removed all the set screw components. I added fixed geometries to the bottom extrusions and then applied my forces on the top. 6061-T6 was used as the material for all the components and a 1 kN load was applied to the top at the motor mounts. In the images below are the results which display the max von Mises, vertical deflection at the grip line and factor of safety.
 
 ![feavertical1](feavertical1.png)
 ![feavertical2](feavertical2.png)
